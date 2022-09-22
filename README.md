@@ -16,6 +16,10 @@ A curated list of awesome neural radiance fields (NeRF) papers.
 
 ## Papers
 
+|Year|Conf|Code|Title|
+|:-:|:-:|:-:|:-:|
+|2020|ECCV|[TF](https://github.com/bmild/nerf) [Torch](https://github.com/yenchenlin/nerf-pytorch)|[NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://dl.acm.org/doi/pdf/10.1145/3503250)|
+
 ### Survey
 
 ### General
