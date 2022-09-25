@@ -69,6 +69,7 @@ A curated list of awesome neural radiance fields (NeRF) papers.
 |2022|CVPR|[Project Page](https://sirwyver.github.io/AutoRF/)|[AutoRF: Learning 3D Object Radiance Fields from Single View Observation](https://openaccess.thecvf.com/content/CVPR2022/papers/Muller_AutoRF_Learning_3D_Object_Radiance_Fields_From_Single_View_Observations_CVPR_2022_paper.pdf)|
 |2022|CVPR|[Torch](https://github.com/mjmjeong/InfoNeRF)|[InfoNeRF: Ray Entropy Minimization for Few-Shot Neural Volume Rendering](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_InfoNeRF_Ray_Entropy_Minimization_for_Few-Shot_Neural_Volume_Rendering_CVPR_2022_paper.pdf)|
 |2022|CVPR|[Torch](https://github.com/dunbar12138/DSNeRF)|[Depth-supervised NeRF: Fewer Views and Faster Training for Free](https://openaccess.thecvf.com/content/CVPR2022/papers/Deng_Depth-Supervised_NeRF_Fewer_Views_and_Faster_Training_for_Free_CVPR_2022_paper.pdf)|
+|2021|ICCV|[Torch](https://github.com/ajayjain/DietNeRF)|[Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis](https://openaccess.thecvf.com/content/ICCV2021/papers/Jain_Putting_NeRF_on_a_Diet_Semantically_Consistent_Few-Shot_View_Synthesis_ICCV_2021_paper.pdf)|
 
 ### Generalization
 
