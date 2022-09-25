@@ -7,12 +7,20 @@ A curated list of awesome neural radiance fields (NeRF) papers.
 
 
 ## Table of Contents
-
-* Papers
-* Datasets
-* Talks
-* Blogs
-* Links
+-[Papers](#Papers)
+  -[Survey](#Survey)
+  -[Training & Inference Efficiency](#Training-&-Inference-Efficiency)
+  -[Editing](#Editing)
+  -[Few Shot](#Few-Shot)
+  -[Generalization](#Generalization)
+  -[Image Restoration](#Image-Restoration)
+  -[Large Scale Scene](#Large-Scale-Scene)
+  -[Human](#Human)
+  -[Others](#Others)
+-[Datasets](#Datasets)
+-[Talks](#Talks)
+-[Blogs](#Blogs)
+-[Links](#Links)
 
 ## Papers
 
@@ -82,7 +90,7 @@ A curated list of awesome neural radiance fields (NeRF) papers.
 |2022|CVPR||[NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images](https://openaccess.thecvf.com/content/CVPR2022/papers/Mildenhall_NeRF_in_the_Dark_High_Dynamic_Range_View_Synthesis_From_CVPR_2022_paper.pdf)|
 |2022|CVPR|[Torch](https://github.com/limacv/Deblur-NeRF)|[Deblur-NeRF: Neural Radiance Fields from Blurry Images](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Deblur-NeRF_Neural_Radiance_Fields_From_Blurry_Images_CVPR_2022_paper.pdf)|
 
-### Large-Scale Scene
+### Large Scale Scene
 
 |Year|Conf|Code|Title|
 |:-:|:-:|:-:|:-:|
