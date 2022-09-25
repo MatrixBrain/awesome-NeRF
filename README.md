@@ -91,7 +91,7 @@ A curated list of awesome neural radiance fields (NeRF) papers.
 |2022|CVPR||[Block-NeRF: Scalable Large Scene Neural View Synthesis](https://openaccess.thecvf.com/content/CVPR2022/papers/Tancik_Block-NeRF_Scalable_Large_Scene_Neural_View_Synthesis_CVPR_2022_paper.pdf)|
 |2022|CVPR|[Torch](https://github.com/rover-xingyu/Ha-NeRF)|[Hallucinated Neural Radiance Fields in the Wild](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Hallucinated_Neural_Radiance_Fields_in_the_Wild_CVPR_2022_paper.pdf)|
 
-### Pose
+### Human
 
 |Year|Conf|Code|Title|
 |:-:|:-:|:-:|:-:|
