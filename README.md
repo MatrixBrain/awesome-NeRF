@@ -7,20 +7,20 @@ A curated list of awesome neural radiance fields (NeRF) papers.
 
 
 ## Table of Contents
--[Papers](#Papers)
-  -[Survey](#Survey)
-  -[Training & Inference Efficiency](#Training-&-Inference-Efficiency)
-  -[Editing](#Editing)
-  -[Few Shot](#Few-Shot)
-  -[Generalization](#Generalization)
-  -[Image Restoration](#Image-Restoration)
-  -[Large Scale Scene](#Large-Scale-Scene)
-  -[Human](#Human)
-  -[Others](#Others)
--[Datasets](#Datasets)
--[Talks](#Talks)
--[Blogs](#Blogs)
--[Links](#Links)
+- [Papers](#Papers)
+  - [Survey](#Survey)
+  - [Training & Inference Efficiency](#Training-&-Inference-Efficiency)
+  - [Editing](#Editing)
+  - [Few Shot](#Few-Shot)
+  - [Generalization](#Generalization)
+  - [Image Restoration](#Image-Restoration)
+  - [Large Scale Scene](#Large-Scale-Scene)
+  - [Human](#Human)
+  - [Others](#Others)
+- [Datasets](#Datasets)
+- [Talks](#Talks)
+- [Blogs](#Blogs)
+- [Links](#Links)
 
 ## Papers
 
