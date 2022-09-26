@@ -45,6 +45,9 @@ A curated list of awesome neural radiance fields (NeRF) papers.
 |2021|ICCV|[Torch](https://github.com/quan-meng/gnerf)|[GNeRF: GAN-based Neural Radiance Field without Posed Camera](https://openaccess.thecvf.com/content/ICCV2021/papers/Meng_GNeRF_GAN-Based_Neural_Radiance_Field_Without_Posed_Camera_ICCV_2021_paper.pdf)|
 |2021|ICCV|[Project Page](https://chenhsuanlin.bitbucket.io/bundle-adjusting-NeRF/)|[BARF: Bundle-Adjusting Neural Radiance Fields](https://openaccess.thecvf.com/content/ICCV2021/papers/Lin_BARF_Bundle-Adjusting_Neural_Radiance_Fields_ICCV_2021_paper.pdf)|
 |2021|ICCV|[Project Page](https://zju3dv.github.io/object_nerf/)|[Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Learning_Object-Compositional_Neural_Radiance_Field_for_Editable_Scene_Rendering_ICCV_2021_paper.pdf)|
+|2021|ICCV|[Torch](https://github.com/weiyithu/NerfingMVS)|[NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo](https://openaccess.thecvf.com/content/ICCV2021/papers/Wei_NerfingMVS_Guided_Optimization_of_Neural_Radiance_Fields_for_Indoor_Multi-View_ICCV_2021_paper.pdf)|
+|2021|ICCV|[Torch](https://github.com/autonomousvision/unisurf)|[UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction](https://openaccess.thecvf.com/content/ICCV2021/papers/Oechsle_UNISURF_Unifying_Neural_Implicit_Surfaces_and_Radiance_Fields_for_Multi-View_ICCV_2021_paper.pdf)|
+
 
 ### Training & Inference Efficiency
 
@@ -78,6 +81,7 @@ A curated list of awesome neural radiance fields (NeRF) papers.
 |2022|CVPR|[Torch](https://github.com/dunbar12138/DSNeRF)|[Depth-supervised NeRF: Fewer Views and Faster Training for Free](https://openaccess.thecvf.com/content/CVPR2022/papers/Deng_Depth-Supervised_NeRF_Fewer_Views_and_Faster_Training_for_Free_CVPR_2022_paper.pdf)|
 |2021|ICCV|[Project Page](https://www.ajayj.com/dietnerf)|[Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis](https://openaccess.thecvf.com/content/ICCV2021/papers/Jain_Putting_NeRF_on_a_Diet_Semantically_Consistent_Few-Shot_View_Synthesis_ICCV_2021_paper.pdf)|
 |2021|ICCV|[Torch](https://github.com/yilundu/nerflow)|[Neural Radiance Flow for 4D View Synthesis and Video Processing](https://openaccess.thecvf.com/content/ICCV2021/papers/Du_Neural_Radiance_Flow_for_4D_View_Synthesis_and_Video_Processing_ICCV_2021_paper.pdf)|
+|2021|ICCV|[Project Page](https://apchenstu.github.io/mvsnerf/)|[MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_MVSNeRF_Fast_Generalizable_Radiance_Field_Reconstruction_From_Multi-View_Stereo_ICCV_2021_paper.pdf)|
 
 ### Generalization
 
