@@ -1,8 +1,8 @@
 # Awesome Neural Radiance Fields (NeRF) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of awesome neural radiance fields (NeRF) papers. All papers are grouped according to keywords/tasks, and sorted by year.
+A curated list of awesome neural radiance fields (NeRF) papers. All papers are grouped according to keywords/tasks, and sorted by year. We hope this review can help peers who are interested in conducting NeRF related research.
 
 ## Contributing
-If you are interested in joining our team and organizing NeRF related papers/codes/projects together, please submit PR according to the following guide. We'll put your name on the list of contributors.
+Warmly welcome everyone to participate in this project!!! If you are interested in joining our team and organizing NeRF related papers/codes/projects together, please submit PR according to the following guide. We'll put your name on the list of contributors.
 
 
 [Submit a Pull Request](./submit-pr.md)
@@ -248,7 +248,7 @@ If you are interested in joining our team and organizing NeRF related papers/cod
 |2020|[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)|Frank Dellaert|EN|
 
 ## Acknowledgment
-When we reviewed the literature, we found that this excellent [repo](https://github.com/yenchenlin/awesome-NeRF) had not been updated for a long time, so we reorganized and released our [awesome-NeRF](https://github.com/koolo233/awesome-NeRF). Some features were borrowed from [repo](https://github.com/yenchenlin/awesome-NeRF), so we are grateful for their works.
+When we reviewed the literatures about NeRF, we found that this excellent [repo](https://github.com/yenchenlin/awesome-NeRF) had not been updated for a long time, so we reorganized and released our [awesome-NeRF](https://github.com/koolo233/awesome-NeRF). Some features were borrowed from [repo](https://github.com/yenchenlin/awesome-NeRF), so we are grateful for their works.
 
 ## Team
 ### Team Members
