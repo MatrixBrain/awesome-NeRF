@@ -243,6 +243,8 @@ If you are interested in joining our team and organizing NeRF related papers/cod
 |Year|Title|Writer|Language|
 |:-:|:-:|:-:|:-:|
 |2022|[NeRF及其发展](https://zhuanlan.zhihu.com/p/512538748)|yuqiSun|CN|
+|2022|[NeRF at CVPR 2022](https://dellaert.github.io/NeRF22/)|Frank Dellaert|EN|
+|2021|[NeRF at ICCV 2021](https://dellaert.github.io/NeRF21/)|Frank Dellaert|EN|
 |2020|[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)|Frank Dellaert|EN|
 
 ## Acknowledgment
