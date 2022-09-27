@@ -152,6 +152,7 @@ If you are interested in joining our team and organizing NeRF related papers/cod
 
 |Year|Conf|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
+|2022|ECCV|[code](https://github.com/apple/ml-neuman)|[NeuMan: Neural Human Radiance Field from a Single Video](https://arxiv.org/abs/2203.12575)||
 |2022|CVPR||[Structured Local Radiance Fields for Human Avatar Modeling](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Structured_Local_Radiance_Fields_for_Human_Avatar_Modeling_CVPR_2022_paper.pdf)|
 |2022|CVPR|[Code](https://github.com/pfnet-research/surface-aligned-nerf)|[Surface-Aligned Neural Radiance Fields for Controllable 3D Human Synthesis](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Surface-Aligned_Neural_Radiance_Fields_for_Controllable_3D_Human_Synthesis_CVPR_2022_paper.pdf)|
 |2022|CVPR|[Torch](https://github.com/chungyiweng/humannerf)|[HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video](https://openaccess.thecvf.com/content/CVPR2022/papers/Weng_HumanNeRF_Free-Viewpoint_Rendering_of_Moving_People_From_Monocular_Video_CVPR_2022_paper.pdf)|
