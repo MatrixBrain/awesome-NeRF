@@ -1,8 +1,0 @@
-|Year|Conf|Code|Title|OtherInfo|
-|:-:|:-:|:-:|:-:|:-:|
-|2022|CVPR||[LOLNeRF: Learn from One Look](https://openaccess.thecvf.com/content/CVPR2022/papers/Rebain_LOLNerf_Learn_From_One_Look_CVPR_2022_paper.pdf)|[Project Page](https://ubc-vision.github.io/lolnerf/)|
-|2022|CVPR|[Torch](https://github.com/MrTornado24/FENeRF)|[FENeRF: Face Editing in Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_FENeRF_Face_Editing_in_Neural_Radiance_Fields_CVPR_2022_paper.pdf)|
-|2022|CVPR||[CoNeRF: Controllable Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Kania_CoNeRF_Controllable_Neural_Radiance_Fields_CVPR_2022_paper.pdf)|
-|2022|CVPR|[Torch](https://github.com/CrisHY1995/headnerf)|[HeadNeRF: A Real-time NeRF-based Parametric Head Model](https://openaccess.thecvf.com/content/CVPR2022/papers/Hong_HeadNeRF_A_Real-Time_NeRF-Based_Parametric_Head_Model_CVPR_2022_paper.pdf)|
-|2022|CVPR|[Torch](https://github.com/primecai/Pix2NeRF)|[Pix2NeRF: Unsupervised Conditional π-GAN for Single Image to NeuralRadiance Fields Translation](https://openaccess.thecvf.com/content/CVPR2022/papers/Cai_Pix2NeRF_Unsupervised_Conditional_p-GAN_for_Single_Image_to_Neural_Radiance_CVPR_2022_paper.pdf)|
-|2021|ICCV|[Torch](https://github.com/YudongGuo/AD-NeRF)|[AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_AD-NeRF_Audio_Driven_Neural_Radiance_Fields_for_Talking_Head_Synthesis_ICCV_2021_paper.pdf)|
