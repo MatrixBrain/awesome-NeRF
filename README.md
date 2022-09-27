@@ -32,12 +32,11 @@ If you are interested in joining our team and organizing NeRF related papers/cod
         - [Video](#video)
         - [View Synthesis Extrapolation](#view-synthesis-extrapolation)
     - [Unclassified](#unclassified)
-- [Datasets](#Datasets)
-- [Talks](#Talks)
-- [Blogs](#Blogs)
-- [Links](#Links)
-- [Acknowledgment](#Acknowledgment)
-- [Team](#Team)
+- [Dataset](#dataset)
+- [Talk & Video](#talk--video)
+- [Blog](#blog)
+- [Acknowledgment](#acknowledgment)
+- [Team](#team)
 
 
 ## Papers
@@ -104,6 +103,7 @@ If you are interested in joining our team and organizing NeRF related papers/cod
 |2021|ICCV|[Torch](https://github.com/sxyu/plenoctree)|[PlenOctrees for Real-time Rendering of Neural Radiance Fields](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_PlenOctrees_for_Real-Time_Rendering_of_Neural_Radiance_Fields_ICCV_2021_paper.pdf)|[Project Page](https://alexyu.net/plenoctrees/)|
 |2021|ICCV|[Torch](https://github.com/creiser/kilonerf)|[KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs](https://openaccess.thecvf.com/content/ICCV2021/papers/Reiser_KiloNeRF_Speeding_Up_Neural_Radiance_Fields_With_Thousands_of_Tiny_ICCV_2021_paper.pdf)|
 |2021|ICCV|[TF](https://github.com/google-research/google-research/tree/master/snerg)|[Baking Neural Radiance Fields for Real-Time View Synthesis](https://openaccess.thecvf.com/content/ICCV2021/papers/Hedman_Baking_Neural_Radiance_Fields_for_Real-Time_View_Synthesis_ICCV_2021_paper.pdf)|[Project Page](https://phog.github.io/snerg/)|
+|2021|CVPR|[TF](https://github.com/google-research/google-research/tree/master/snerg)|[DeRF: Decomposed Radiance Fields](https://openaccess.thecvf.com/content/CVPR2021/papers/Rebain_DeRF_Decomposed_Radiance_Fields_CVPR_2021_paper.pdf)|[Project Page](https://ubc-vision.github.io/derf/)|
 
 ### Task
 
@@ -204,7 +204,7 @@ If you are interested in joining our team and organizing NeRF related papers/cod
 |Year|Conf|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
 |2022|ECCV|[code](https://github.com/apple/ml-neuman)|[NeuMan: Neural Human Radiance Field from a Single Video](https://arxiv.org/abs/2203.12575)||
-|2021|ICCV|[Torch](https://github.com/albertpumarola/D-NeRF)|[D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://openaccess.thecvf.com/content/CVPR2021/papers/Pumarola_D-NeRF_Neural_Radiance_Fields_for_Dynamic_Scenes_CVPR_2021_paper.pdf)|
+|2021|CVPR|[Torch](https://github.com/albertpumarola/D-NeRF)|[D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://openaccess.thecvf.com/content/CVPR2021/papers/Pumarola_D-NeRF_Neural_Radiance_Fields_for_Dynamic_Scenes_CVPR_2021_paper.pdf)|
 |2021|ICCV|[Torch](https://github.com/facebookresearch/nonrigid_nerf)|[Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Dynamic Scene From Monocular Video](https://openaccess.thecvf.com/content/ICCV2021/papers/Tretschk_Non-Rigid_Neural_Radiance_Fields_Reconstruction_and_Novel_View_Synthesis_of_ICCV_2021_paper.pdf)|
 |2021|CVPR||[Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction](https://openaccess.thecvf.com/content/CVPR2021/papers/Gafni_Dynamic_Neural_Radiance_Fields_for_Monocular_4D_Facial_Avatar_Reconstruction_CVPR_2021_paper.pdf)|[Project Page](https://gafniguy.github.io/4D-Facial-Avatars/)|
 |2021|CVPR||[Learning Compositional Radiance Fields of Dynamic Human Heads](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Learning_Compositional_Radiance_Fields_of_Dynamic_Human_Heads_CVPR_2021_paper.pdf)|[Project Page](https://ziyanw1.github.io/hybrid_nerf/)|
@@ -225,11 +225,18 @@ If you are interested in joining our team and organizing NeRF related papers/cod
 
 ## Dataset
 
-## Talk
+|Year|Name|Task|Instances|
+|:-:|:-:|:-:|:-:|
+
+## Talk & Video
+
+|Year|Theme|Speaker/Publisher|
+|:-:|:-:|:-:|
 
 ## Blog
 
-## Link
+|Year|Title|Writer|
+|:-:|:-:|:-:|
 
 ## Acknowledgment
 
