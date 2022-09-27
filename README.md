@@ -17,7 +17,7 @@ If you are interested in joining our team and organizing NeRF related papers/cod
         - [Rendering Performance](#rendering-performance)
         - [Theory](#theory)
         - [Training & Inference Efficiency](#training--inference-efficiency)
-    - [NeRF Related Task](#nerf-related-task)
+    - [NeRF Related Tasks](#nerf-related-tasks)
         - [Deblur & Denoise](#deblur--denoise)
         - [Depth Estimation](#depth-estimation)
         - [Editing](#editing)
@@ -110,7 +110,7 @@ If you are interested in joining our team and organizing NeRF related papers/cod
 |2021|ICCV|[TF](https://github.com/google-research/google-research/tree/master/snerg)|[Baking Neural Radiance Fields for Real-Time View Synthesis](https://openaccess.thecvf.com/content/ICCV2021/papers/Hedman_Baking_Neural_Radiance_Fields_for_Real-Time_View_Synthesis_ICCV_2021_paper.pdf)|[Project Page](https://phog.github.io/snerg/)|
 |2021|CVPR|[TF](https://github.com/google-research/google-research/tree/master/snerg)|[DeRF: Decomposed Radiance Fields](https://openaccess.thecvf.com/content/CVPR2021/papers/Rebain_DeRF_Decomposed_Radiance_Fields_CVPR_2021_paper.pdf)|[Project Page](https://ubc-vision.github.io/derf/)|
 
-### NeRF Related Task
+### NeRF Related Tasks
 
 #### Deblur & Denoise
 
