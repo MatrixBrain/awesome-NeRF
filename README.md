@@ -226,7 +226,7 @@ If you are interested in joining our team and organizing NeRF related papers/cod
 
 ## Team
 ### Team Members
-Zhongwei Qiu (Leader), Zijiang Yang, Tianle Cheng
+[Zhongwei Qiu](https://github.com/qiuzhongwei-USTB) (Leader), [Zijiang Yang](https://github.com/koolo233), [Tianle Cheng](https://github.com/Oak112)
 ### Contributors
 
 
