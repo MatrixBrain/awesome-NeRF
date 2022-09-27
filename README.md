@@ -2,9 +2,9 @@
 A curated list of awesome neural radiance fields (NeRF) papers.
 
 ## Contributing
+If you are interested in joining our team and organizing NeRF related papers/codes/projects together, please submit PR according to the following guide. We'll put your name on the list of contributors.
 
 [Submit a pull request](./submit-pr.md)
-
 
 ## Table of Contents
 - [Papers](#Papers)
