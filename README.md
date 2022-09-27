@@ -84,6 +84,8 @@ If you are interested in joining our team and organizing NeRF related papers/cod
 |2021|ICCV|[Project Page](https://www.ajayj.com/dietnerf)|[Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis](https://openaccess.thecvf.com/content/ICCV2021/papers/Jain_Putting_NeRF_on_a_Diet_Semantically_Consistent_Few-Shot_View_Synthesis_ICCV_2021_paper.pdf)|
 |2021|ICCV|[Torch](https://github.com/yilundu/nerflow)|[Neural Radiance Flow for 4D View Synthesis and Video Processing](https://openaccess.thecvf.com/content/ICCV2021/papers/Du_Neural_Radiance_Flow_for_4D_View_Synthesis_and_Video_Processing_ICCV_2021_paper.pdf)|
 |2021|ICCV|[Project Page](https://apchenstu.github.io/mvsnerf/)|[MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_MVSNeRF_Fast_Generalizable_Radiance_Field_Reconstruction_From_Multi-View_Stereo_ICCV_2021_paper.pdf)|
+|2021|CVPR|[Project Page](https://virtualhumans.mpi-inf.mpg.de/)|[Stereo Radiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes](https://openaccess.thecvf.com/content/CVPR2021/papers/Chibane_Stereo_Radiance_Fields_SRF_Learning_View_Synthesis_for_Sparse_Views_CVPR_2021_paper.pdf)|
+|2021|CVPR|[Project Page](https://alexyu.net/pixelnerf/)|[pixelNeRF: Neural Radiance Fields from One or Few Images](https://openaccess.thecvf.com/content/CVPR2021/papers/Yu_pixelNeRF_Neural_Radiance_Fields_From_One_or_Few_Images_CVPR_2021_paper.pdf)|
 
 ### Generalization
 
@@ -99,6 +101,7 @@ If you are interested in joining our team and organizing NeRF related papers/cod
 |2021|ICCV|[Torch](https://github.com/vincentfung13/MINE)|[MINE: Towards Continuous Depth MPI with NeRF for Novel View Synthesis](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_MINE_Towards_Continuous_Depth_MPI_With_NeRF_for_Novel_View_ICCV_2021_paper.pdf)|
 |2021|ICCV|[Torch](https://github.com/YudongGuo/AD-NeRF)|[AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_AD-NeRF_Audio_Driven_Neural_Radiance_Fields_for_Talking_Head_Synthesis_ICCV_2021_paper.pdf)|
 |2021|ICCV|[Torch](https://github.com/facebookresearch/nonrigid_nerf)|[Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Dynamic Scene From Monocular Video](https://openaccess.thecvf.com/content/ICCV2021/papers/Tretschk_Non-Rigid_Neural_Radiance_Fields_Reconstruction_and_Novel_View_Synthesis_of_ICCV_2021_paper.pdf)|
+|2021|CVPR|[Project Page](https://gafniguy.github.io/4D-Facial-Avatars/)|[Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction](https://openaccess.thecvf.com/content/CVPR2021/papers/Gafni_Dynamic_Neural_Radiance_Fields_for_Monocular_4D_Facial_Avatar_Reconstruction_CVPR_2021_paper.pdf)|
 
 ### Image Restoration
 
@@ -127,6 +130,7 @@ If you are interested in joining our team and organizing NeRF related papers/cod
 |2022|CVPR||[DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Reconstruction and Rendering](https://openaccess.thecvf.com/content/CVPR2022/papers/Shao_DoubleField_Bridging_the_Neural_Surface_and_Radiance_Fields_for_High-Fidelity_CVPR_2022_paper.pdf)|
 |2021|ICCV|[Project Page](https://zju3dv.github.io/animatable_nerf/)|[Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies](https://openaccess.thecvf.com/content/ICCV2021/papers/Peng_Animatable_Neural_Radiance_Fields_for_Modeling_Dynamic_Human_Bodies_ICCV_2021_paper.pdf)|
 |2021|ICCV|[Torch](https://github.com/nogu-atsu/NARF)|[Neural Articulated Radiance Field](https://openaccess.thecvf.com/content/ICCV2021/papers/Noguchi_Neural_Articulated_Radiance_Field_ICCV_2021_paper.pdf)|
+|2021|CVPR|[Project Page](https://ziyanw1.github.io/hybrid_nerf/)|[Learning Compositional Radiance Fields of Dynamic Human Heads](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Learning_Compositional_Radiance_Fields_of_Dynamic_Human_Heads_CVPR_2021_paper.pdf)|
 
 
 ### Others
@@ -137,6 +141,7 @@ If you are interested in joining our team and organizing NeRF related papers/cod
 |2021|ICCV|[Torch](https://github.com/wbjang/code-nerf)|[CodeNeRF: Disentangled Neural Radiance Fields for Object Categories](https://openaccess.thecvf.com/content/ICCV2021/papers/Jang_CodeNeRF_Disentangled_Neural_Radiance_Fields_for_Object_Categories_ICCV_2021_paper.pdf)|
 |2021|ICCV|[Project Page](https://nerfies.github.io/)|[Nerfies: Deformable Neural Radiance Fields](https://openaccess.thecvf.com/content/ICCV2021/papers/Park_Nerfies_Deformable_Neural_Radiance_Fields_ICCV_2021_paper.pdf)|
 |2021|ICCV|[Torch](https://github.com/POSTECH-CVLab/SCNeRF)|[Self-Calibrating Neural Radiance Fields](https://openaccess.thecvf.com/content/ICCV2021/papers/Jeong_Self-Calibrating_Neural_Radiance_Fields_ICCV_2021_paper.pdf)|
+|2021|CVPR|[Project Page](https://nerf-w.github.io/)|[NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections](https://openaccess.thecvf.com/content/CVPR2021/papers/Martin-Brualla_NeRF_in_the_Wild_Neural_Radiance_Fields_for_Unconstrained_Photo_CVPR_2021_paper.pdf)|
 
 ## Datasets
 
