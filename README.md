@@ -36,8 +36,8 @@ If you are interested in joining our team and organizing NeRF related papers/cod
 - [Talks](#Talks)
 - [Blogs](#Blogs)
 - [Links](#Links)
-- [Team](#Team)
 - [Acknowledgment](#Acknowledgment)
+- [Team](#Team)
 
 
 ## Papers
@@ -221,9 +221,11 @@ If you are interested in joining our team and organizing NeRF related papers/cod
 
 ## Links
 
+## Acknowledgment
+
 ## Team
 ### Team Members
 Zhongwei Qiu (Leader), Zijiang Yang, Tianle Cheng
 ### Contributors
 
-## Acknowledgment
+
