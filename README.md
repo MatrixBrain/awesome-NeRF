@@ -21,6 +21,8 @@ A curated list of awesome neural radiance fields (NeRF) papers.
 - [Talks](#Talks)
 - [Blogs](#Blogs)
 - [Links](#Links)
+- [Contributors](#Contributors)
+- [Team](#Team)
 
 ## Papers
 
@@ -143,3 +145,8 @@ A curated list of awesome neural radiance fields (NeRF) papers.
 ## Blogs
 
 ## Links
+
+## Team
+### Team Members
+Zhongwei Qiu (Leader), Zijiang Yang, Tianle Cheng
+### Contributors
