@@ -248,6 +248,7 @@ If you are interested in joining our team and organizing NeRF related papers/cod
 |2020|[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)|Frank Dellaert|EN|
 
 ## Acknowledgment
+When we reviewed the literature, we found that this excellent [repo](https://github.com/yenchenlin/awesome-NeRF) had not been updated for a long time, so we reorganized and released our [awesome-NeRF](https://github.com/koolo233/awesome-NeRF). Some features were borrowed from [repo](https://github.com/yenchenlin/awesome-NeRF), so we are grateful for their works.
 
 ## Team
 ### Team Members
