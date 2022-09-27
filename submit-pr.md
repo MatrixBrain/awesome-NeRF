@@ -15,10 +15,10 @@ The current keywords do not cover all topics. Welcome to add new keywords. Pleas
 
 ## Talk & Video
 
-1. Modify the `README.md` and follow the format **|YEAR|THEME|SPEAKER/PUBLISHER|**
+1. Modify the `README.md` and follow the format **|YEAR|THEME|SPEAKER/PUBLISHER|LANGUAGE|**
 2. Submit a PR with the label `talk & video`.
 
 ## Blog
 
-1. Modify the `README.md` and follow the format **|YEAR|TITLE|WRITER|**
+1. Modify the `README.md` and follow the format **|YEAR|TITLE|WRITER|LANGUAGE|**
 2. Submit a PR with the label `blog`.
