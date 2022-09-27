@@ -17,7 +17,7 @@ If you are interested in joining our team and organizing NeRF related papers/cod
         - [Rendering Performance](#rendering-performance)
         - [Theory](#theory)
         - [Training & Inference Efficiency](#training--inference-efficiency)
-    - [Task](#task)
+    - [NeRF Related Task](#nerf-related-task)
         - [Deblur & Denoise](#deblur--denoise)
         - [Depth Estimation](#depth-estimation)
         - [Editing](#editing)
@@ -46,6 +46,11 @@ If you are interested in joining our team and organizing NeRF related papers/cod
 |2020|ECCV|[TF](https://github.com/bmild/nerf) [Torch](https://github.com/yenchenlin/nerf-pytorch)|[NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://dl.acm.org/doi/pdf/10.1145/3503250)|
 
 ### Survey
+
+|Year|Conf|Code|Title|OtherInfo|
+|:-:|:-:|:-:|:-:|:-:|
+|2022|Computer Graphics Forum||[Neural Fields in Visual Computing and Beyond](https://arxiv.org/pdf/2111.11426.pdf)||
+|2020|Computer Graphics Forum||[State of the Art on Neural Rendering](https://onlinelibrary.wiley.com/doi/am-pdf/10.1111/cgf.14022)||
 
 ### NeRF
 
@@ -105,7 +110,7 @@ If you are interested in joining our team and organizing NeRF related papers/cod
 |2021|ICCV|[TF](https://github.com/google-research/google-research/tree/master/snerg)|[Baking Neural Radiance Fields for Real-Time View Synthesis](https://openaccess.thecvf.com/content/ICCV2021/papers/Hedman_Baking_Neural_Radiance_Fields_for_Real-Time_View_Synthesis_ICCV_2021_paper.pdf)|[Project Page](https://phog.github.io/snerg/)|
 |2021|CVPR|[TF](https://github.com/google-research/google-research/tree/master/snerg)|[DeRF: Decomposed Radiance Fields](https://openaccess.thecvf.com/content/CVPR2021/papers/Rebain_DeRF_Decomposed_Radiance_Fields_CVPR_2021_paper.pdf)|[Project Page](https://ubc-vision.github.io/derf/)|
 
-### Task
+### NeRF Related Task
 
 #### Deblur & Denoise
 
@@ -230,13 +235,15 @@ If you are interested in joining our team and organizing NeRF related papers/cod
 
 ## Talk & Video
 
-|Year|Theme|Speaker/Publisher|
-|:-:|:-:|:-:|
+|Year|Theme|Speaker/Publisher|Language|
+|:-:|:-:|:-:|:-:|
 
 ## Blog
 
-|Year|Title|Writer|
-|:-:|:-:|:-:|
+|Year|Title|Writer|Language|
+|:-:|:-:|:-:|:-:|
+|2022|[NeRF及其发展](https://zhuanlan.zhihu.com/p/512538748)|yuqiSun|CN|
+|2020|[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)|Frank Dellaert|EN|
 
 ## Acknowledgment
 
