@@ -10,7 +10,7 @@ The current keywords do not cover all topics. Welcome to add new keywords. Pleas
 
 ## Dataset
 
-1. Modify the `README.md` and follow the format **|YEAR|NAME|TASK|INSTANCES|**
+1. Modify the `README.md` and follow the format **|YEAR|NAME|RELATED PAPER|TASK|INSTANCES|NOTE|**
 2. Submit a PR with the label `dataset`.
 
 ## Talk & Video
