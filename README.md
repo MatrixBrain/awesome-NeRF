@@ -43,7 +43,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 |Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
-|2020|ECCV|[TF](https://github.com/bmild/nerf) [Torch](https://github.com/yenchenlin/nerf-pytorch)|[NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://dl.acm.org/doi/pdf/10.1145/3503250)|
+|2020|ECCV|[TF](https://github.com/bmild/nerf) [Torch](https://github.com/yenchenlin/nerf-pytorch)|[NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://dl.acm.org/doi/pdf/10.1145/3503250)|[Project Page](https://www.matthewtancik.com/nerf)|
 
 ### Survey
 
