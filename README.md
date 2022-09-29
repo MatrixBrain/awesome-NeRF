@@ -251,6 +251,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 |Year|Theme|Speaker/Publisher|Language|
 |:-:|:-:|:-:|:-:|
+|2021|[Editing Conditional Radiance Fields](https://www.youtube.com/watch?v=9qwRD4ejOpw)|Steven Liu|EN|
 |2021|[Michael Niemeyer: Generative Neural Scene Representations 3D Representation Seminar](https://www.youtube.com/watch?v=scnXyCSMJF4)|Yen-Chen Lin|EN|
 |2020|[NeRF: Neural Radiance Fields](https://www.youtube.com/watch?v=JuH79E8rdKc)|Matthew Tancik|EN|
 
