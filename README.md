@@ -232,8 +232,9 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 ## Datasets
 
-|Year|Name|Task|Instances|
-|:-:|:-:|:-:|:-:|
+|Year|Name|Related Paper|Task|Instances|Note|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|2020|[NeRF-DATA](https://drive.google.com/drive/folders/128yBriW1IG_3NJ5Rp7APSTZsJqdJdfc1)|[NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://dl.acm.org/doi/pdf/10.1145/3503250)|View Synthesis|-|Benchmark|
 
 ## Talks & Videos
 
