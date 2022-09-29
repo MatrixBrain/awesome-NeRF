@@ -24,11 +24,13 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
         - [Face](#face)
         - [High Dynamic Range (HDR)](#high-dynamic-range-hdr)
         - [Human](#human)
+        - [Image Generation](#image-generation)
+            - [Image Generation](#image-generation-1)
+            - [Text & Image Guided Generation](#text--image-guided-generation)
         - [Large Scale Scene](#large-scale-scene)
         - [Pose Misalignment](#pose-misalignment)
         - [Stylized](#stylized)
         - [Surface Reconstruction](#surface-reconstruction)
-        - [Text & Image Guided Generation](#text--image-guided-generation)
         - [Video](#video)
         - [View Synthesis Extrapolation](#view-synthesis-extrapolation)
     - [Unclassified](#unclassified)
@@ -138,7 +140,6 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |2022|CVPR||[RigNeRF: Fully Controllable Neural 3D Portraits](https://openaccess.thecvf.com/content/CVPR2022/papers/Athar_RigNeRF_Fully_Controllable_Neural_3D_Portraits_CVPR_2022_paper.pdf)|
 |2021|ICCV|[Torch](https://github.com/zju3dv/object_nerf)|[Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Learning_Object-Compositional_Neural_Radiance_Field_for_Editable_Scene_Rendering_ICCV_2021_paper.pdf)|[Project Page](https://zju3dv.github.io/object_nerf/)|
 |2021|CVPR|[Torch](https://github.com/autonomousvision/giraffe)|[GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields](https://openaccess.thecvf.com/content/CVPR2021/papers/Niemeyer_GIRAFFE_Representing_Scenes_As_Compositional_Generative_Neural_Feature_Fields_CVPR_2021_paper.pdf)||
-|2020|NIPS|[Torch](https://github.com/autonomousvision/graf)|[GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis](https://proceedings.neurips.cc/paper/2020/file/e92e1b476bb5262d793fd40931e0ed53-Paper.pdf)||
 
 #### Face
 
@@ -170,6 +171,20 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |2021|ICCV|[Code](https://github.com/zju3dv/animatable_nerf)|[Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies](https://openaccess.thecvf.com/content/ICCV2021/papers/Peng_Animatable_Neural_Radiance_Fields_for_Modeling_Dynamic_Human_Bodies_ICCV_2021_paper.pdf)|[Project Page](https://zju3dv.github.io/animatable_nerf/)|
 |2021|ICCV|[Torch](https://github.com/nogu-atsu/NARF)|[Neural Articulated Radiance Field](https://openaccess.thecvf.com/content/ICCV2021/papers/Noguchi_Neural_Articulated_Radiance_Field_ICCV_2021_paper.pdf)|
 
+#### Image Generation
+
+##### Image Generation
+
+|Year|Conf/Jour|Code|Title|OtherInfo|
+|:-:|:-:|:-:|:-:|:-:|
+|2020|NIPS|[Torch](https://github.com/autonomousvision/graf)|[GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis](https://proceedings.neurips.cc/paper/2020/file/e92e1b476bb5262d793fd40931e0ed53-Paper.pdf)||
+
+##### Text & Image Guided Generation
+
+|Year|Conf/Jour|Code|Title|OtherInfo|
+|:-:|:-:|:-:|:-:|:-:|
+|2022|CVPR|[Code](https://github.com/cassiePython/CLIPNeRF)|[CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_CLIP-NeRF_Text-and-Image_Driven_Manipulation_of_Neural_Radiance_Fields_CVPR_2022_paper.pdf)||
+
 #### Large Scale Scene
 
 |Year|Conf/Jour|Code|Title|OtherInfo|
@@ -199,12 +214,6 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
 |2021|ICCV|[Torch](https://github.com/autonomousvision/unisurf)|[UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction](https://openaccess.thecvf.com/content/ICCV2021/papers/Oechsle_UNISURF_Unifying_Neural_Implicit_Surfaces_and_Radiance_Fields_for_Multi-View_ICCV_2021_paper.pdf)|
-
-#### Text & Image Guided Generation
-
-|Year|Conf/Jour|Code|Title|OtherInfo|
-|:-:|:-:|:-:|:-:|:-:|
-|2022|CVPR|[Code](https://github.com/cassiePython/CLIPNeRF)|[CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_CLIP-NeRF_Text-and-Image_Driven_Manipulation_of_Neural_Radiance_Fields_CVPR_2022_paper.pdf)||
 
 #### Video
 
