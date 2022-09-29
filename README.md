@@ -239,6 +239,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 |Year|Theme|Speaker/Publisher|Language|
 |:-:|:-:|:-:|:-:|
+|2020|[NeRF: Neural Radiance Fields](https://www.youtube.com/watch?v=JuH79E8rdKc)|Matthew Tancik|EN|
 
 ## Blogs
 
