@@ -32,22 +32,22 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
         - [Video](#video)
         - [View Synthesis Extrapolation](#view-synthesis-extrapolation)
     - [Unclassified](#unclassified)
-- [Datasets](#dataset)
-- [Talks & Videos](#talk--video)
-- [Blogs](#blog)
+- [Datasets](#datasets)
+- [Talks & Videos](#talks--videos)
+- [Blogs](#blogs)
 - [Acknowledgment](#acknowledgment)
 - [Team](#team)
 
 
 ## Papers
 
-|Year|Conf|Code|Title|OtherInfo|
+|Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
 |2020|ECCV|[TF](https://github.com/bmild/nerf) [Torch](https://github.com/yenchenlin/nerf-pytorch)|[NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://dl.acm.org/doi/pdf/10.1145/3503250)|
 
 ### Survey
 
-|Year|Conf|Code|Title|OtherInfo|
+|Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
 |2022|Computer Graphics Forum||[Neural Fields in Visual Computing and Beyond](https://arxiv.org/pdf/2111.11426.pdf)||
 |2020|Computer Graphics Forum||[State of the Art on Neural Rendering](https://onlinelibrary.wiley.com/doi/am-pdf/10.1111/cgf.14022)||
@@ -56,13 +56,13 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 #### Data Augmentation
 
-|Year|Conf|Code|Title|OtherInfo|
+|Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
 |2022|CVPR|[Torch](https://github.com/VITA-Group/Aug-NeRF)|[Aug-NeRF: Training Stronger Neural Radiance Fields with Triple-Level Physically-Grounded Augmentations](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Aug-NeRF_Training_Stronger_Neural_Radiance_Fields_With_Triple-Level_Physically-Grounded_Augmentations_CVPR_2022_paper.pdf)|
 
 #### Few Shot
 
-|Year|Conf|Code|Title|OtherInfo|
+|Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
 |2022|CVPR||[Dense Depth Priors for Neural Radiance Fields from Sparse Input Views](https://openaccess.thecvf.com/content/CVPR2022/papers/Roessle_Dense_Depth_Priors_for_Neural_Radiance_Fields_From_Sparse_Input_CVPR_2022_paper.pdf)|
 |2022|CVPR|[TF](https://m-niemeyer.github.io/regnerf)|[RegNeRF: Regularizing Neural Radiance Fields for View Synthesis from Sparse Inputs](https://openaccess.thecvf.com/content/CVPR2022/papers/Niemeyer_RegNeRF_Regularizing_Neural_Radiance_Fields_for_View_Synthesis_From_Sparse_CVPR_2022_paper.pdf)|
@@ -76,7 +76,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 #### Rendering Performance
 
-|Year|Conf|Code|Title|OtherInfo|
+|Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
 |2022|CVPR||[Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Verbin_Ref-NeRF_Structured_View-Dependent_Appearance_for_Neural_Radiance_Fields_CVPR_2022_paper.pdf)|
 |2022|CVPR||[Urban Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Rematas_Urban_Radiance_Fields_CVPR_2022_paper.pdf)|
@@ -90,13 +90,13 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 #### Theory
 
-|Year|Conf|Code|Title|OtherInfo|
+|Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
 |2020|ECCV|[TF](https://github.com/bmild/nerf) [Torch](https://github.com/yenchenlin/nerf-pytorch)|[NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://dl.acm.org/doi/pdf/10.1145/3503250)|
 
 #### Training & Inference Efficiency
 
-|Year|Conf|Code|Title|OtherInfo|
+|Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
 |2022|CVPR|[Torch](https://github.com/Xharlie/pointnerf)|[Point-NeRF: Point-based Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Point-NeRF_Point-Based_Neural_Radiance_Fields_CVPR_2022_paper.pdf)|
 |2022|CVPR|[Torch](https://github.com/lwwu2/diver-rt)|[DIVeR: Real-time and Accurate Neural Radiance Fields with Deterministic Integration for Volume Rendering](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_DIVeR_Real-Time_and_Accurate_Neural_Radiance_Fields_With_Deterministic_Integration_CVPR_2022_paper.pdf)|
@@ -114,7 +114,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 #### Deblur & Denoise
 
-|Year|Conf|Code|Title|OtherInfo|
+|Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
 |2022|CVPR|[Torch](https://github.com/limacv/Deblur-NeRF)|[Deblur-NeRF: Neural Radiance Fields from Blurry Images](https://openaccess.thecvf.com/content/CVPR2022/papers/Ma_Deblur-NeRF_Neural_Radiance_Fields_From_Blurry_Images_CVPR_2022_paper.pdf)|
 |2022|CVPR||[NAN: Noise-Aware NeRFs for Burst-Denoising](https://openaccess.thecvf.com/content/CVPR2022/papers/Pearl_NAN_Noise-Aware_NeRFs_for_Burst-Denoising_CVPR_2022_paper.pdf)|[Project Page](https://noise-aware-nerf.github.io/)|
@@ -122,7 +122,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 #### Depth Estimation
 
-|Year|Conf|Code|Title|OtherInfo|
+|Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
 |2022|CVPR||[AR-NeRF: Unsupervised Learning of Depth and Defocus Effects from Natural Images with Aperture Rendering Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Kaneko_AR-NeRF_Unsupervised_Learning_of_Depth_and_Defocus_Effects_From_Natural_CVPR_2022_paper.pdf)|[Project Page](https://www.kecl.ntt.co.jp/people/kaneko.takuhiro/projects/ar-nerf/)|
 |2021|ICCV|[Torch](https://github.com/weiyithu/NerfingMVS)|[NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo](https://openaccess.thecvf.com/content/ICCV2021/papers/Wei_NerfingMVS_Guided_Optimization_of_Neural_Radiance_Fields_for_Indoor_Multi-View_ICCV_2021_paper.pdf)|
@@ -130,7 +130,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 #### Editing
 
-|Year|Conf|Code|Title|OtherInfo|
+|Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
 |2022|CVPR|[Torch](https://github.com/lwwu2/diver-rt)|[DIVeR: Real-time and Accurate Neural Radiance Fields with Deterministic Integration for Volume Rendering](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_DIVeR_Real-Time_and_Accurate_Neural_Radiance_Fields_With_Deterministic_Integration_CVPR_2022_paper.pdf)|
 |2022|CVPR|[Jittor](https://github.com/IGLICT/NeRF-Editing)|[NeRF-Editing: Geometry Editing of Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Yuan_NeRF-Editing_Geometry_Editing_of_Neural_Radiance_Fields_CVPR_2022_paper.pdf)|
@@ -142,7 +142,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 #### Face
 
-|Year|Conf|Code|Title|OtherInfo|
+|Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
 |2022|CVPR||[LOLNeRF: Learn from One Look](https://openaccess.thecvf.com/content/CVPR2022/papers/Rebain_LOLNerf_Learn_From_One_Look_CVPR_2022_paper.pdf)|[Project Page](https://ubc-vision.github.io/lolnerf/)|
 |2022|CVPR|[Torch](https://github.com/MrTornado24/FENeRF)|[FENeRF: Face Editing in Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_FENeRF_Face_Editing_in_Neural_Radiance_Fields_CVPR_2022_paper.pdf)|
@@ -154,13 +154,13 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 #### High Dynamic Range (HDR)
 
-|Year|Conf|Code|Title|OtherInfo|
+|Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
 |2022|CVPR||[HDR-NeRF: High Dynamic Range Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_HDR-NeRF_High_Dynamic_Range_Neural_Radiance_Fields_CVPR_2022_paper.pdf)|
 
 #### Human
 
-|Year|Conf|Code|Title|OtherInfo|
+|Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
 |2022|ECCV|[code](https://github.com/apple/ml-neuman)|[NeuMan: Neural Human Radiance Field from a Single Video](https://arxiv.org/abs/2203.12575)||
 |2022|CVPR||[Structured Local Radiance Fields for Human Avatar Modeling](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Structured_Local_Radiance_Fields_for_Human_Avatar_Modeling_CVPR_2022_paper.pdf)|
@@ -172,7 +172,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 #### Large Scale Scene
 
-|Year|Conf|Code|Title|OtherInfo|
+|Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
 |2022|CVPR||[Urban Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Rematas_Urban_Radiance_Fields_CVPR_2022_paper.pdf)|
 |2022|CVPR|[Code](https://github.com/jetd1/NeRFusion)|[NeRFusion: Fusing Radiance Fields for Large-Scale Scene Reconstruction](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_NeRFusion_Fusing_Radiance_Fields_for_Large-Scale_Scene_Reconstruction_CVPR_2022_paper.pdf)|
@@ -184,31 +184,31 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 #### Pose Misalignment
 
-|Year|Conf|Code|Title|OtherInfo|
+|Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
 |2021|ICCV||[BARF: Bundle-Adjusting Neural Radiance Fields](https://openaccess.thecvf.com/content/ICCV2021/papers/Lin_BARF_Bundle-Adjusting_Neural_Radiance_Fields_ICCV_2021_paper.pdf)|[Project Page](https://chenhsuanlin.bitbucket.io/bundle-adjusting-NeRF/)|
 
 #### Stylized
 
-|Year|Conf|Code|Title|OtherInfo|
+|Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
 |2022|CVPR|[Jittor](https://github.com/IGLICT/StylizedNeRF)|[StylizedNeRF: Consistent 3D Scene Stylization as Stylized NeRF via 2D-3D Mutual Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_StylizedNeRF_Consistent_3D_Scene_Stylization_As_Stylized_NeRF_via_2D-3D_CVPR_2022_paper.pdf)|
 
 #### Surface Reconstruction
 
-|Year|Conf|Code|Title|OtherInfo|
+|Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
 |2021|ICCV|[Torch](https://github.com/autonomousvision/unisurf)|[UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction](https://openaccess.thecvf.com/content/ICCV2021/papers/Oechsle_UNISURF_Unifying_Neural_Implicit_Surfaces_and_Radiance_Fields_for_Multi-View_ICCV_2021_paper.pdf)|
 
 #### Text & Image Guided Generation
 
-|Year|Conf|Code|Title|OtherInfo|
+|Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
 |2022|CVPR|[Code](https://github.com/cassiePython/CLIPNeRF)|[CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_CLIP-NeRF_Text-and-Image_Driven_Manipulation_of_Neural_Radiance_Fields_CVPR_2022_paper.pdf)||
 
 #### Video
 
-|Year|Conf|Code|Title|OtherInfo|
+|Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
 |2022|ECCV|[code](https://github.com/apple/ml-neuman)|[NeuMan: Neural Human Radiance Field from a Single Video](https://arxiv.org/abs/2203.12575)||
 |2021|CVPR|[Torch](https://github.com/albertpumarola/D-NeRF)|[D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://openaccess.thecvf.com/content/CVPR2021/papers/Pumarola_D-NeRF_Neural_Radiance_Fields_for_Dynamic_Scenes_CVPR_2021_paper.pdf)|
@@ -219,13 +219,13 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 #### View Synthesis Extrapolation
 
-|Year|Conf|Code|Title|OtherInfo|
+|Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
 |2022|CVPR||[Ray Priors through Reprojection: Improving Neural Radiance Fields for Novel View Extrapolation](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Ray_Priors_Through_Reprojection_Improving_Neural_Radiance_Fields_for_Novel_CVPR_2022_paper.pdf)||
 
 ### Unclassified
 
-|Year|Conf|Code|Title|OtherInfo|
+|Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
 |2021|ICCV|[Torch](https://github.com/wbjang/code-nerf)|[CodeNeRF: Disentangled Neural Radiance Fields for Object Categories](https://openaccess.thecvf.com/content/ICCV2021/papers/Jang_CodeNeRF_Disentangled_Neural_Radiance_Fields_for_Object_Categories_ICCV_2021_paper.pdf)|
 |2021|ICCV|[Torch](https://github.com/POSTECH-CVLab/SCNeRF)|[Self-Calibrating Neural Radiance Fields](https://openaccess.thecvf.com/content/ICCV2021/papers/Jeong_Self-Calibrating_Neural_Radiance_Fields_ICCV_2021_paper.pdf)| 
