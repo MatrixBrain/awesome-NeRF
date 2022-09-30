@@ -175,6 +175,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |2022|CVPR||[DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Reconstruction and Rendering](https://openaccess.thecvf.com/content/CVPR2022/papers/Shao_DoubleField_Bridging_the_Neural_Surface_and_Radiance_Fields_for_High-Fidelity_CVPR_2022_paper.pdf)|
 |2021|ICCV|[Code](https://github.com/zju3dv/animatable_nerf)|[Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies](https://openaccess.thecvf.com/content/ICCV2021/papers/Peng_Animatable_Neural_Radiance_Fields_for_Modeling_Dynamic_Human_Bodies_ICCV_2021_paper.pdf)|[Project Page](https://zju3dv.github.io/animatable_nerf/)|
 |2021|ICCV|[Torch](https://github.com/nogu-atsu/NARF)|[Neural Articulated Radiance Field](https://openaccess.thecvf.com/content/ICCV2021/papers/Noguchi_Neural_Articulated_Radiance_Field_ICCV_2021_paper.pdf)|
+|2021|ACM TOG||Editable Free-Viewpoint Video using a Layered Neural Representation|
 
 #### Image Generation
 
