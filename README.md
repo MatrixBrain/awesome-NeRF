@@ -142,6 +142,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |2021|ICCV|[Torch](https://github.com/zju3dv/object_nerf)|[Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Learning_Object-Compositional_Neural_Radiance_Field_for_Editable_Scene_Rendering_ICCV_2021_paper.pdf)|[Project Page](https://zju3dv.github.io/object_nerf/)|
 |2021|ICCV|[Torch](https://github.com/stevliu/editnerf)|[Editing Conditional Radiance Fields](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Editing_Conditional_Radiance_Fields_ICCV_2021_paper.pdf)|[Project Page](http://editnerf.csail.mit.edu/)|
 |2021|CVPR|[Torch](https://github.com/autonomousvision/giraffe)|[GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields](https://openaccess.thecvf.com/content/CVPR2021/papers/Niemeyer_GIRAFFE_Representing_Scenes_As_Compositional_Generative_Neural_Feature_Fields_CVPR_2021_paper.pdf)|[Project Page](https://m-niemeyer.github.io/project-pages/giraffe/index.html)|
+2021|NIPS|[Torch](https://github.com/stevenygd/NFGP)|[Geometry Processing with Neural Fields](https://proceedings.neurips.cc/paper/2021/file/bd686fd640be98efaae0091fa301e613-Paper.pdf)|[Project Page](https://www.guandaoyang.com/NFGP/)|
 
 #### Face
 
@@ -254,6 +255,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |Year|Theme|Speaker/Publisher|Language|
 |:-:|:-:|:-:|:-:|
 |2022|[[CVPR 2022] Neural Volumetric Object Selection](https://www.youtube.com/watch?v=iAe5Wk0C_aA)|Jason Ren|EN|
+|2021|[Geometry Processing with Neural Fields](https://www.youtube.com/watch?v=y6LKzQ6ACTw)|Guandao Yang|EN|
 |2021|[Editing Conditional Radiance Fields](https://www.youtube.com/watch?v=9qwRD4ejOpw)|Steven Liu|EN|
 |2021|[Michael Niemeyer: Generative Neural Scene Representations 3D Representation Seminar](https://www.youtube.com/watch?v=scnXyCSMJF4)|Yen-Chen Lin|EN|
 |2020|[NeRF: Neural Radiance Fields](https://www.youtube.com/watch?v=JuH79E8rdKc)|Matthew Tancik|EN|
