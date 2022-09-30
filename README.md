@@ -146,7 +146,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |2021|ICCV|[Torch](https://github.com/stevliu/editnerf)|[Editing Conditional Radiance Fields](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Editing_Conditional_Radiance_Fields_ICCV_2021_paper.pdf)|[Project Page](http://editnerf.csail.mit.edu/)|
 |2021|CVPR|[Torch](https://github.com/autonomousvision/giraffe)|[GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields](https://openaccess.thecvf.com/content/CVPR2021/papers/Niemeyer_GIRAFFE_Representing_Scenes_As_Compositional_Generative_Neural_Feature_Fields_CVPR_2021_paper.pdf)|[Project Page](https://m-niemeyer.github.io/project-pages/giraffe/index.html)|
 |2021|CVPR|[Torch](https://github.com/microsoft/DIF-Net)|[Deformed Implicit Field: Modeling 3D Shapes with Learned Dense Correspondence](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_Deformed_Implicit_Field_Modeling_3D_Shapes_With_Learned_Dense_Correspondence_CVPR_2021_paper.pdf)||
-|2021|NIPS|[Torch](https://github.com/stevenygd/NFGP)|[Geometry Processing with Neural Fields](https://proceedings.neurips.cc/paper/2021/file/bd686fd640be98efaae0091fa301e613-Paper.pdf)|[Project Page](https://www.guandaoyang.com/NFGP/)|
+|2021|NeurIPS|[Torch](https://github.com/stevenygd/NFGP)|[Geometry Processing with Neural Fields](https://proceedings.neurips.cc/paper/2021/file/bd686fd640be98efaae0091fa301e613-Paper.pdf)|[Project Page](https://www.guandaoyang.com/NFGP/)|
 
 #### Face
 
@@ -186,7 +186,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 |Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
-|2020|NIPS|[Torch](https://github.com/autonomousvision/graf)|[GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis](https://proceedings.neurips.cc/paper/2020/file/e92e1b476bb5262d793fd40931e0ed53-Paper.pdf)||
+|2020|NeurIPS|[Torch](https://github.com/autonomousvision/graf)|[GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis](https://proceedings.neurips.cc/paper/2020/file/e92e1b476bb5262d793fd40931e0ed53-Paper.pdf)||
 
 ##### Text & Image Guided Generation
 
@@ -233,8 +233,8 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
 |2021|ICCV|[Torch](https://github.com/autonomousvision/unisurf)|[UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction](https://openaccess.thecvf.com/content/ICCV2021/papers/Oechsle_UNISURF_Unifying_Neural_Implicit_Surfaces_and_Radiance_Fields_for_Multi-View_ICCV_2021_paper.pdf)|
-|2021|NIPS|[Torch](https://github.com/Totoro97/NeuS)|[NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction](https://arxiv.org/pdf/2106.10689.pdf)|[Project Page](https://lingjie0206.github.io/papers/NeuS/)|
-|2021|NIPS||[Volume Rendering of Neural Implicit Surfaces](https://proceedings.neurips.cc/paper/2021/file/25e2a30f44898b9f3e978b1786dcd85c-Paper.pdf)||
+|2021|NeurIPS|[Torch](https://github.com/Totoro97/NeuS)|[NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction](https://arxiv.org/pdf/2106.10689.pdf)|[Project Page](https://lingjie0206.github.io/papers/NeuS/)|
+|2021|NeurIPS||[Volume Rendering of Neural Implicit Surfaces](https://proceedings.neurips.cc/paper/2021/file/25e2a30f44898b9f3e978b1786dcd85c-Paper.pdf)||
 
 #### Video
 
