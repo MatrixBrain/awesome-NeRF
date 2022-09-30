@@ -239,6 +239,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 |Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
+|2022|CVPR||[Neural Volumetric Object Selection](https://openaccess.thecvf.com/content/CVPR2022/papers/Ren_Neural_Volumetric_Object_Selection_CVPR_2022_paper.pdf)|[Project Page](https://jason718.github.io/nvos/)|
 |2021|ICCV|[Torch](https://github.com/wbjang/code-nerf)|[CodeNeRF: Disentangled Neural Radiance Fields for Object Categories](https://openaccess.thecvf.com/content/ICCV2021/papers/Jang_CodeNeRF_Disentangled_Neural_Radiance_Fields_for_Object_Categories_ICCV_2021_paper.pdf)|
 |2021|ICCV|[Torch](https://github.com/POSTECH-CVLab/SCNeRF)|[Self-Calibrating Neural Radiance Fields](https://openaccess.thecvf.com/content/ICCV2021/papers/Jeong_Self-Calibrating_Neural_Radiance_Fields_ICCV_2021_paper.pdf)| 
 
@@ -252,6 +253,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 |Year|Theme|Speaker/Publisher|Language|
 |:-:|:-:|:-:|:-:|
+|2022|[[CVPR 2022] Neural Volumetric Object Selection](https://www.youtube.com/watch?v=iAe5Wk0C_aA)|Jason Ren|EN|
 |2021|[Editing Conditional Radiance Fields](https://www.youtube.com/watch?v=9qwRD4ejOpw)|Steven Liu|EN|
 |2021|[Michael Niemeyer: Generative Neural Scene Representations 3D Representation Seminar](https://www.youtube.com/watch?v=scnXyCSMJF4)|Yen-Chen Lin|EN|
 |2020|[NeRF: Neural Radiance Fields](https://www.youtube.com/watch?v=JuH79E8rdKc)|Matthew Tancik|EN|
