@@ -220,6 +220,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
 |2021|ICCV|[Torch](https://github.com/autonomousvision/unisurf)|[UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction](https://openaccess.thecvf.com/content/ICCV2021/papers/Oechsle_UNISURF_Unifying_Neural_Implicit_Surfaces_and_Radiance_Fields_for_Multi-View_ICCV_2021_paper.pdf)|
+|2021|NIPS|[Torch](https://github.com/Totoro97/NeuS)|[NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction](https://arxiv.org/pdf/2106.10689.pdf)|[Project Page](https://lingjie0206.github.io/papers/NeuS/)|
 
 #### Video
 
@@ -251,6 +252,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 |Year|Name|Related Paper|Task|Instances|Note|
 |:-:|:-:|:-:|:-:|:-:|:-:|
+|2021|[NeuS-DATA](https://drive.google.com/drive/folders/1Nlzejs4mfPuJYORLbDEUDWlc9IZIbU0C)|[NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction](https://arxiv.org/pdf/2106.10689.pdf)|Surface Reconstruction|-||
 |2020|[NeRF-DATA](https://drive.google.com/drive/folders/128yBriW1IG_3NJ5Rp7APSTZsJqdJdfc1)|[NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://dl.acm.org/doi/pdf/10.1145/3503250)|View Synthesis|-|Benchmark|
 
 ## Talks & Videos
