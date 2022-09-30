@@ -29,6 +29,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
             - [Text & Image Guided Generation](#text--image-guided-generation)
         - [Large Scale Scene](#large-scale-scene)
         - [Pose Misalignment](#pose-misalignment)
+        - [Relighting](#relighting)
         - [Stylized](#stylized)
         - [Surface Reconstruction](#surface-reconstruction)
         - [Video](#video)
@@ -208,6 +209,11 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
 |2021|ICCV||[BARF: Bundle-Adjusting Neural Radiance Fields](https://openaccess.thecvf.com/content/ICCV2021/papers/Lin_BARF_Bundle-Adjusting_Neural_Radiance_Fields_ICCV_2021_paper.pdf)|[Project Page](https://chenhsuanlin.bitbucket.io/bundle-adjusting-NeRF/)|
+
+#### Relighting
+
+|Year|Conf/Jour|Code|Title|OtherInfo|
+|:-:|:-:|:-:|:-:|:-:|
 
 #### Stylized
 
