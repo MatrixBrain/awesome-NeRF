@@ -152,6 +152,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 |Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
+|2022|ECCV|[Torch](https://github.com/donydchen/sem2nerf)|[Sem2NeRF: Converting Single-View Semantic Masks to Neural Radiance Fields](https://arxiv.org/pdf/2203.10821.pdf)|[Project Page](https://donydchen.github.io/sem2nerf/)|
 |2022|CVPR||[LOLNeRF: Learn from One Look](https://openaccess.thecvf.com/content/CVPR2022/papers/Rebain_LOLNerf_Learn_From_One_Look_CVPR_2022_paper.pdf)|[Project Page](https://ubc-vision.github.io/lolnerf/)|
 |2022|CVPR|[Torch](https://github.com/MrTornado24/FENeRF)|[FENeRF: Face Editing in Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_FENeRF_Face_Editing_in_Neural_Radiance_Fields_CVPR_2022_paper.pdf)|
 |2022|CVPR||[CoNeRF: Controllable Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Kania_CoNeRF_Controllable_Neural_Radiance_Fields_CVPR_2022_paper.pdf)|
@@ -191,6 +192,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 |Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
+|2022|ECCV|[Torch](https://github.com/donydchen/sem2nerf)|[Sem2NeRF: Converting Single-View Semantic Masks to Neural Radiance Fields](https://arxiv.org/pdf/2203.10821.pdf)|[Project Page](https://donydchen.github.io/sem2nerf/)|
 |2022|CVPR|[Code](https://github.com/cassiePython/CLIPNeRF)|[CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_CLIP-NeRF_Text-and-Image_Driven_Manipulation_of_Neural_Radiance_Fields_CVPR_2022_paper.pdf)||
 
 #### Large Scale Scene
@@ -225,7 +227,6 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
 |2022|CVPR|[Jittor](https://github.com/IGLICT/StylizedNeRF)|[StylizedNeRF: Consistent 3D Scene Stylization as Stylized NeRF via 2D-3D Mutual Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_StylizedNeRF_Consistent_3D_Scene_Stylization_As_Stylized_NeRF_via_2D-3D_CVPR_2022_paper.pdf)|
-|2022|ECCV|[Torch](https://github.com/donydchen/sem2nerf)|[Sem2NeRF: Converting Single-View Semantic Masks to Neural Radiance Fields](https://arxiv.org/pdf/2203.10821.pdf)|
 
 #### Surface Reconstruction
 
@@ -272,6 +273,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 |Year|Theme|Speaker/Publisher|Language|
 |:-:|:-:|:-:|:-:|
+|2022|[[ECCV'22] Sem2NeRF: Converting Single-View Semantic Masks to Neural Radiance Fields](https://www.youtube.com/watch?v=cYr3Dz8N_9E)|Yuedong Chen|EN|
 |2022|[[CVPR 2022] Neural Volumetric Object Selection](https://www.youtube.com/watch?v=iAe5Wk0C_aA)|Jason Ren|EN|
 |2022|[[ACM-MM'22] Factorized and Controllable Neural Re-Rendering of Outdoor Scene for Photo Extrapolation](https://www.youtube.com/watch?v=gFwNBqNfqKQ)|Bangbang Yang|EN|
 |2021|[Geometry Processing with Neural Fields](https://www.youtube.com/watch?v=y6LKzQ6ACTw)|Guandao Yang|EN|
