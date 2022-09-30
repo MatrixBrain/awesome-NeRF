@@ -214,6 +214,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 |Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
+|2022|ACM MM||[Factorized and Controllable Neural Re-Rendering of Outdoor Scene for Photo Extrapolation](https://arxiv.org/pdf/2207.06899.pdf)|[Project Page](https://zju3dv.github.io/neural_outdoor_rerender/)|
 |2021|CVPR|[TF](https://github.com/cgtuebingen/NeRD-Neural-Reflectance-Decomposition)|[NeRD: Neural Reflectance Decomposition from Image Collections](https://openaccess.thecvf.com/content/ICCV2021/papers/Boss_NeRD_Neural_Reflectance_Decomposition_From_Image_Collections_ICCV_2021_paper.pdf)|[Project Page](https://markboss.me/publication/2021-nerd/)|
 |2021|CVPR||[NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis](https://openaccess.thecvf.com/content/CVPR2021/papers/Srinivasan_NeRV_Neural_Reflectance_and_Visibility_Fields_for_Relighting_and_View_CVPR_2021_paper.pdf)||
 |2021|ACM TOG|[TF](https://github.com/google/nerfactor)|[NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination](https://dl.acm.org/doi/pdf/10.1145/3478513.3480496)|[Project Page](https://xiuming.info/projects/nerfactor/)|
@@ -270,6 +271,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |Year|Theme|Speaker/Publisher|Language|
 |:-:|:-:|:-:|:-:|
 |2022|[[CVPR 2022] Neural Volumetric Object Selection](https://www.youtube.com/watch?v=iAe5Wk0C_aA)|Jason Ren|EN|
+|2022|[[ACM-MM'22] Factorized and Controllable Neural Re-Rendering of Outdoor Scene for Photo Extrapolation](https://www.youtube.com/watch?v=gFwNBqNfqKQ)|Bangbang Yang|EN|
 |2021|[Geometry Processing with Neural Fields](https://www.youtube.com/watch?v=y6LKzQ6ACTw)|Guandao Yang|EN|
 |2021|[Editing Conditional Radiance Fields](https://www.youtube.com/watch?v=9qwRD4ejOpw)|Steven Liu|EN|
 |2021|[Michael Niemeyer: Generative Neural Scene Representations 3D Representation Seminar](https://www.youtube.com/watch?v=scnXyCSMJF4)|Yen-Chen Lin|EN|
