@@ -83,7 +83,6 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
 |2022|ECCV||[Gaussian Activated Neural Radiance Fields for High Fidelity Reconstruction & Pose Estimation](https://arxiv.org/pdf/2204.05735v1.pdf)|
-|2022|ECCV|[Torch](https://github.com/thomasneff/AdaNeRF)|[AdaNeRF: Adaptive Sampling for Real-time Rendering of Neural Radiance Fields](https://arxiv.org/pdf/2207.10312v1.pdf)|
 |2022|CVPR||[Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Verbin_Ref-NeRF_Structured_View-Dependent_Appearance_for_Neural_Radiance_Fields_CVPR_2022_paper.pdf)|
 |2022|CVPR||[Urban Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Rematas_Urban_Radiance_Fields_CVPR_2022_paper.pdf)|
 |2022|CVPR|[Torch](https://github.com/idiap/GeoNeRF)|[GeoNeRF: Generalizing NeRF with Geometry Priors](https://openaccess.thecvf.com/content/CVPR2022/papers/Johari_GeoNeRF_Generalizing_NeRF_With_Geometry_Priors_CVPR_2022_paper.pdf)|[Project Page](https://www.idiap.ch/paper/geonerf/)|
@@ -104,6 +103,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 |Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
+|2022|ECCV|[Torch](https://github.com/thomasneff/AdaNeRF)|[AdaNeRF: Adaptive Sampling for Real-time Rendering of Neural Radiance Fields](https://arxiv.org/pdf/2207.10312v1.pdf)|
 |2022|CVPR|[Torch](https://github.com/Xharlie/pointnerf)|[Point-NeRF: Point-based Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Point-NeRF_Point-Based_Neural_Radiance_Fields_CVPR_2022_paper.pdf)|
 |2022|CVPR|[Torch](https://github.com/lwwu2/diver-rt)|[DIVeR: Real-time and Accurate Neural Radiance Fields with Deterministic Integration for Volume Rendering](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_DIVeR_Real-Time_and_Accurate_Neural_Radiance_Fields_With_Deterministic_Integration_CVPR_2022_paper.pdf)|
 |2022|CVPR||[Fourier PlenOctrees for Dynamic Radiance Field Rendering in Real-time](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Fourier_PlenOctrees_for_Dynamic_Radiance_Field_Rendering_in_Real-Time_CVPR_2022_paper.pdf)|
