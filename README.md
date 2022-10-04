@@ -52,6 +52,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 |Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
+|2022|arXiv||[NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review](https://arxiv.org/pdf/2210.00379.pdf)||
 |2022|Computer Graphics Forum||[Neural Fields in Visual Computing and Beyond](https://arxiv.org/pdf/2111.11426.pdf)||
 |2020|Computer Graphics Forum||[State of the Art on Neural Rendering](https://onlinelibrary.wiley.com/doi/am-pdf/10.1111/cgf.14022)||
 
