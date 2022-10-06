@@ -138,6 +138,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 |Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
+|2022|NeurIPS||CageNeRF: Cage-based Neural Radiance Field for Generalized 3D Deformation and Animation||
 |2022|ECCV|[Torch](https://github.com/zju3dv/neumesh)|[NeuMesh: Learning Disentangled Neural Mesh-based Implicit Field for Geometry and Texture Editing](https://arxiv.org/pdf/2207.11911.pdf)|[Project Page](https://zju3dv.github.io/neumesh/)|
 |2022|CVPR|[Torch](https://github.com/lwwu2/diver-rt)|[DIVeR: Real-time and Accurate Neural Radiance Fields with Deterministic Integration for Volume Rendering](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_DIVeR_Real-Time_and_Accurate_Neural_Radiance_Fields_With_Deterministic_Integration_CVPR_2022_paper.pdf)|
 |2022|CVPR|[Jittor](https://github.com/IGLICT/NeRF-Editing)|[NeRF-Editing: Geometry Editing of Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Yuan_NeRF-Editing_Geometry_Editing_of_Neural_Radiance_Fields_CVPR_2022_paper.pdf)|
@@ -260,6 +261,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 |Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
+|2022|NeurIPS|[Torch](https://github.com/ashawkey/CCNeRF)|[Compressible-composable NeRF via Rank-residual Decomposition](https://arxiv.org/pdf/2205.14870.pdf)||
 |2022|CVPR||[Neural Volumetric Object Selection](https://openaccess.thecvf.com/content/CVPR2022/papers/Ren_Neural_Volumetric_Object_Selection_CVPR_2022_paper.pdf)|[Project Page](https://jason718.github.io/nvos/)|
 |2021|ICCV|[Torch](https://github.com/wbjang/code-nerf)|[CodeNeRF: Disentangled Neural Radiance Fields for Object Categories](https://openaccess.thecvf.com/content/ICCV2021/papers/Jang_CodeNeRF_Disentangled_Neural_Radiance_Fields_for_Object_Categories_ICCV_2021_paper.pdf)|
 |2021|ICCV|[Torch](https://github.com/POSTECH-CVLab/SCNeRF)|[Self-Calibrating Neural Radiance Fields](https://openaccess.thecvf.com/content/ICCV2021/papers/Jeong_Self-Calibrating_Neural_Radiance_Fields_ICCV_2021_paper.pdf)| 
