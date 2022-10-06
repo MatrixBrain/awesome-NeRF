@@ -30,6 +30,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
         - [Large Scale Scene](#large-scale-scene)
         - [Pose Misalignment](#pose-misalignment)
         - [Relighting](#relighting)
+        - [Segmentation](#segmentation)
         - [Stylized](#stylized)
         - [Surface Reconstruction](#surface-reconstruction)
         - [Video](#video)
@@ -224,6 +225,11 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |2021|CVPR|[TF](https://github.com/cgtuebingen/NeRD-Neural-Reflectance-Decomposition)|[NeRD: Neural Reflectance Decomposition from Image Collections](https://openaccess.thecvf.com/content/ICCV2021/papers/Boss_NeRD_Neural_Reflectance_Decomposition_From_Image_Collections_ICCV_2021_paper.pdf)|[Project Page](https://markboss.me/publication/2021-nerd/)|
 |2021|CVPR||[NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis](https://openaccess.thecvf.com/content/CVPR2021/papers/Srinivasan_NeRV_Neural_Reflectance_and_Visibility_Fields_for_Relighting_and_View_CVPR_2021_paper.pdf)||
 |2021|ACM TOG|[TF](https://github.com/google/nerfactor)|[NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination](https://dl.acm.org/doi/pdf/10.1145/3478513.3480496)|[Project Page](https://xiuming.info/projects/nerfactor/)|
+
+#### Segmentation
+
+|Year|Conf/Jour|Code|Title|OtherInfo|
+|:-:|:-:|:-:|:-:|:-:|
 
 #### Stylized
 
