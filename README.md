@@ -349,4 +349,6 @@ When we reviewed the literatures about NeRF, we found that this excellent [repo]
 [Zhongwei Qiu](https://github.com/qiuzhongwei-USTB) (Leader), [Zijiang Yang](https://github.com/koolo233), [Tianle Cheng](https://github.com/Oak112)
 ### Contributors
 
+[Hutao99999](https://github.com/Hutao99999)
+
 
