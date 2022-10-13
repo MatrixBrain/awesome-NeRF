@@ -92,6 +92,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |:-:|:-:|:-:|:-:|:-:|
 |2022|NeurIPS|[Torch](https://github.com/ashawkey/CCNeRF)|[Compressible-composable NeRF via Rank-residual Decomposition](https://arxiv.org/pdf/2205.14870.pdf)||
 |2022|NeurIPS||Neural Transmitted Radiance Fields||
+|2022|ECCV|[Torch](https://github.com/apchenstu/TensoRF)|[TensoRF: Tensorial Radiance Fields](https://arxiv.org/pdf/2203.09517.pdf)|[Project Page](https://apchenstu.github.io/TensoRF/)|
 |2022|ECCV||NeXT: Towards High Quality Neural Radiance Fields via Multi-Skip Transformer||
 |2022|ECCV|[Torch](https://github.com/snap-research/R2L)|[R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis](https://arxiv.org/pdf/2203.17261.pdf)|[Project Page](https://snap-research.github.io/R2L/)|
 |2022|ECCV||[Gaussian Activated Neural Radiance Fields for High Fidelity Reconstruction & Pose Estimation](https://arxiv.org/pdf/2204.05735.pdf)||
@@ -159,6 +160,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |2022|NeurIPS|[Code](https://github.com/showlab/DeVRF)|[DeVRF: Fast Deformable Voxel Radiance Fields for Dynamic Scenes](https://arxiv.org/pdf/2205.15723.pdf)|[Project Page](https://jia-wei-liu.github.io/DeVRF/)|
 |2022|NeurIPS||[Decomposing NeRF for Editing via Feature Field Distillation](https://arxiv.org/pdf/2205.15585.pdf)|[Project Page](https://pfnet-research.github.io/distilled-feature-fields/)|
 |2022|NeurIPS||CageNeRF: Cage-based Neural Radiance Field for Generalized 3D Deformation and Animation||
+|2022|ECCV|[Comming Soon](https://github.com/xth430/deforming-nerf)|[Deforming Radiance Fields with Cages](https://arxiv.org/pdf/2207.12298.pdf)|[Project Page](https://xth430.github.io/deforming-nerf/)|
 |2022|ECCV|[Torch](https://github.com/zhuhao-nju/mofanerf)|[MoFaNeRF: Morphable Facial Neural Radiance Field](https://arxiv.org/pdf/2112.02308.pdf)||
 |2022|ECCV|[Torch](https://github.com/ywq/psnerf)|[PS-NeRF: Neural Inverse Rendering for Multi-view Photometric Stereo](https://ywq.github.io/psnerf/)|[Project Page](https://ywq.github.io/psnerf/)|
 |2022|ECCV|[Torch](https://github.com/zju3dv/neumesh)|[NeuMesh: Learning Disentangled Neural Mesh-based Implicit Field for Geometry and Texture Editing](https://arxiv.org/pdf/2207.11911.pdf)|[Project Page](https://zju3dv.github.io/neumesh/)|
@@ -194,6 +196,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 |Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
+|2022|ECCV|[Comming Soon](https://github.com/postech-ami/HDR-Plenoxels)|[HDR-Plenoxels: Self-Calibrating High Dynamic Range Radiance Fields](https://arxiv.org/pdf/2208.06787.pdf)||
 |2022|CVPR||[HDR-NeRF: High Dynamic Range Neural Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_HDR-NeRF_High_Dynamic_Range_Neural_Radiance_Fields_CVPR_2022_paper.pdf)|
 
 #### Human
@@ -326,6 +329,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 |Year|Theme|Speaker/Publisher|Language|
 |:-:|:-:|:-:|:-:|
+|2022|[TensoRF: Tensorial Radiance Fields](https://www.youtube.com/watch?v=ujOMgaKV3lA)|Zexiang Xu|EN|
 |2022|[ECCV2022 - Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis](https://www.youtube.com/watch?v=F6fkVNk9bBw)|Shens|EN|
 |2022|[[NeRF-OSR, ECCV 2022] NeRF for Outdoor Scene Relighting](https://www.youtube.com/watch?v=V8h77YMcxTg)|Vlad Golyanik (4DQV) |EN|
 |2022|[PS-NeRF: Neural Inverse Rendering for Multi-view Photometric Stereo (ECCV 2022)](https://www.youtube.com/watch?v=AhVbcevzCqc)|Yoo|EN|
