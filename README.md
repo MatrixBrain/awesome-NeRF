@@ -92,6 +92,9 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |:-:|:-:|:-:|:-:|:-:|
 |2022|NeurIPS|[Torch](https://github.com/ashawkey/CCNeRF)|[Compressible-composable NeRF via Rank-residual Decomposition](https://arxiv.org/pdf/2205.14870.pdf)||
 |2022|NeurIPS||Neural Transmitted Radiance Fields||
+|2022|ECCV||NeXT: Towards High Quality Neural Radiance Fields via Multi-Skip Transformer||
+|2022|ECCV|[Torch](https://github.com/snap-research/R2L)|[R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis](https://arxiv.org/pdf/2203.17261.pdf)|[Project Page](https://snap-research.github.io/R2L/)|
+|2022|ECCV||[Gaussian Activated Neural Radiance Fields for High Fidelity Reconstruction & Pose Estimation](https://arxiv.org/pdf/2204.05735.pdf)||
 |2022|ECCV||[Conditional-Flow NeRF: Accurate 3D Modelling with Reliable Uncertainty Quantification](https://arxiv.org/pdf/2203.10192.pdf)||
 |2022|ECCV|[Torch](https://github.com/jkulhanek/viewformer/blob/master/requirements.txt)|[ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers](https://arxiv.org/pdf/2203.10157.pdf)||
 |2022|ECCV||[Gaussian Activated Neural Radiance Fields for High Fidelity Reconstruction & Pose Estimation](https://arxiv.org/pdf/2204.05735v1.pdf)|
@@ -115,6 +118,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 |Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
+|2022|ECCV|[Torch](https://github.com/snap-research/R2L)|[R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis](https://arxiv.org/pdf/2203.17261.pdf)|[Project Page](https://snap-research.github.io/R2L/)|
 |2022|ECCV||[Geometry-Guided Progressive NeRF for Generalizable and Efficient Neural Human Rendering](https://arxiv.org/pdf/2112.04312.pdf)||
 |2022|ECCV|[Torch](https://github.com/jkulhanek/viewformer/blob/master/requirements.txt)|[ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers](https://arxiv.org/pdf/2203.10157.pdf)||
 |2022|ECCV|[Torch](https://github.com/thomasneff/AdaNeRF)|[AdaNeRF: Adaptive Sampling for Real-time Rendering of Neural Radiance Fields](https://arxiv.org/pdf/2207.10312v1.pdf)|
@@ -174,6 +178,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
 |2022|NeurIPS||[Generative Neural Articulated Radiance Fields](https://arxiv.org/pdf/2206.14314.pdf)||
+|2022|ECCV|[Torch](https://github.com/sstzal/DFRF)|[Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis](https://arxiv.org/pdf/2207.11770.pdf)|[Project Page](https://sstzal.github.io/DFRF/)|
 |2022|ECCV|[Torch](https://github.com/jgkwak95/SURF-GAN)|[Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis](https://arxiv.org/pdf/2207.10257.pdf)||
 |2022|ECCV|[Torch](https://github.com/zhuhao-nju/mofanerf)|[MoFaNeRF: Morphable Facial Neural Radiance Field](https://arxiv.org/pdf/2112.02308.pdf)||
 |2022|ECCV|[Torch](https://github.com/donydchen/sem2nerf)|[Sem2NeRF: Converting Single-View Semantic Masks to Neural Radiance Fields](https://arxiv.org/pdf/2203.10821.pdf)|[Project Page](https://donydchen.github.io/sem2nerf/)|
@@ -264,11 +269,13 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |2022|NeurIPS||Unsupervised Multi-View Object Segmentation Using Radiance Field Propagation||
 |2022|NeurIPS|[TF](https://github.com/d2nerf/d2nerf)|[D^2NeRF: Self-Supervised Decoupling of Dynamic and Static Objects from a Monocular Video](https://arxiv.org/pdf/2205.15838.pdf)|[Project Page](https://d2nerf.github.io/)|
 |2022|NeurIPS||[Decomposing NeRF for Editing via Feature Field Distillation](https://arxiv.org/pdf/2205.15585.pdf)|[Project Page](https://pfnet-research.github.io/distilled-feature-fields/)|
+|2022|ECCV||[LaTeRF: Label and Text Driven Object Radiance Fields](https://arxiv.org/pdf/2207.01583.pdf)||
 
 #### Stylized
 
 |Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
+|2022|ECCV|[Torch](https://github.com/Kai-46/ARF-svox2)|[ARF: Artistic Radiance fields](https://arxiv.org/pdf/2206.06360.pdf)|[Project Page](https://www.cs.cornell.edu/projects/arf/)|
 |2022|CVPR|[Jittor](https://github.com/IGLICT/StylizedNeRF)|[StylizedNeRF: Consistent 3D Scene Stylization as Stylized NeRF via 2D-3D Mutual Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_StylizedNeRF_Consistent_3D_Scene_Stylization_As_Stylized_NeRF_via_2D-3D_CVPR_2022_paper.pdf)|
 
 #### Surface Reconstruction
@@ -319,6 +326,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 |Year|Theme|Speaker/Publisher|Language|
 |:-:|:-:|:-:|:-:|
+|2022|[ECCV2022 - Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis](https://www.youtube.com/watch?v=F6fkVNk9bBw)|Shens|EN|
 |2022|[[NeRF-OSR, ECCV 2022] NeRF for Outdoor Scene Relighting](https://www.youtube.com/watch?v=V8h77YMcxTg)|Vlad Golyanik (4DQV) |EN|
 |2022|[PS-NeRF: Neural Inverse Rendering for Multi-view Photometric Stereo (ECCV 2022)](https://www.youtube.com/watch?v=AhVbcevzCqc)|Yoo|EN|
 |2022|[[ECCV 2022] KeypointNeRF: Generalizing Image-based Volumetric Avatars](https://www.youtube.com/watch?v=RMs1S5k9vrk)|Marko Mihajlovic|EN|
