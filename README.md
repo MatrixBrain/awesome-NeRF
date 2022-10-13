@@ -157,7 +157,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 |Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
-|2022|NeurIPS|[Code](https://github.com/showlab/DeVRF)|[DeVRF: Fast Deformable Voxel Radiance Fields for Dynamic Scenes](https://arxiv.org/pdf/2205.15723.pdf)|[Project Page](https://jia-wei-liu.github.io/DeVRF/)|
+|2022|NeurIPS|[Torch](https://github.com/showlab/DeVRF)|[DeVRF: Fast Deformable Voxel Radiance Fields for Dynamic Scenes](https://arxiv.org/pdf/2205.15723.pdf)|[Project Page](https://jia-wei-liu.github.io/DeVRF/)|
 |2022|NeurIPS||[Decomposing NeRF for Editing via Feature Field Distillation](https://arxiv.org/pdf/2205.15585.pdf)|[Project Page](https://pfnet-research.github.io/distilled-feature-fields/)|
 |2022|NeurIPS||CageNeRF: Cage-based Neural Radiance Field for Generalized 3D Deformation and Animation||
 |2022|ECCV|[Comming Soon](https://github.com/xth430/deforming-nerf)|[Deforming Radiance Fields with Cages](https://arxiv.org/pdf/2207.12298.pdf)|[Project Page](https://xth430.github.io/deforming-nerf/)|
@@ -206,12 +206,12 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |2022|NeurIPS||[Generative Neural Articulated Radiance Fields](https://arxiv.org/pdf/2206.14314.pdf)||
 |2022|ECCV||[Geometry-Guided Progressive NeRF for Generalizable and Efficient Neural Human Rendering](https://arxiv.org/pdf/2112.04312.pdf)||
 |2022|ECCV|[Torch](https://github.com/facebookresearch/KeypointNeRF)|[KeypointNeRF: Generalizing Image-based Volumetric Avatars using Relative Spatial Encoding of Keypoints](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/563568/1322.pdf?sequence=1)|[Project Page](https://markomih.github.io/KeypointNeRF/)|
-|2022|ECCV|[code](https://github.com/apple/ml-neuman)|[NeuMan: Neural Human Radiance Field from a Single Video](https://arxiv.org/abs/2203.12575)||
+|2022|ECCV|[Torch](https://github.com/apple/ml-neuman)|[NeuMan: Neural Human Radiance Field from a Single Video](https://arxiv.org/abs/2203.12575)||
 |2022|CVPR||[Structured Local Radiance Fields for Human Avatar Modeling](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_Structured_Local_Radiance_Fields_for_Human_Avatar_Modeling_CVPR_2022_paper.pdf)|
-|2022|CVPR|[Code](https://github.com/pfnet-research/surface-aligned-nerf)|[Surface-Aligned Neural Radiance Fields for Controllable 3D Human Synthesis](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Surface-Aligned_Neural_Radiance_Fields_for_Controllable_3D_Human_Synthesis_CVPR_2022_paper.pdf)|
+|2022|CVPR|[Torch](https://github.com/pfnet-research/surface-aligned-nerf)|[Surface-Aligned Neural Radiance Fields for Controllable 3D Human Synthesis](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Surface-Aligned_Neural_Radiance_Fields_for_Controllable_3D_Human_Synthesis_CVPR_2022_paper.pdf)|
 |2022|CVPR|[Torch](https://github.com/chungyiweng/humannerf)|[HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video](https://openaccess.thecvf.com/content/CVPR2022/papers/Weng_HumanNeRF_Free-Viewpoint_Rendering_of_Moving_People_From_Monocular_Video_CVPR_2022_paper.pdf)|
 |2022|CVPR||[DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Reconstruction and Rendering](https://openaccess.thecvf.com/content/CVPR2022/papers/Shao_DoubleField_Bridging_the_Neural_Surface_and_Radiance_Fields_for_High-Fidelity_CVPR_2022_paper.pdf)|
-|2021|ICCV|[Code](https://github.com/zju3dv/animatable_nerf)|[Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies](https://openaccess.thecvf.com/content/ICCV2021/papers/Peng_Animatable_Neural_Radiance_Fields_for_Modeling_Dynamic_Human_Bodies_ICCV_2021_paper.pdf)|[Project Page](https://zju3dv.github.io/animatable_nerf/)|
+|2021|ICCV|[Torch](https://github.com/zju3dv/animatable_nerf)|[Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies](https://openaccess.thecvf.com/content/ICCV2021/papers/Peng_Animatable_Neural_Radiance_Fields_for_Modeling_Dynamic_Human_Bodies_ICCV_2021_paper.pdf)|[Project Page](https://zju3dv.github.io/animatable_nerf/)|
 |2021|ICCV|[Torch](https://github.com/nogu-atsu/NARF)|[Neural Articulated Radiance Field](https://openaccess.thecvf.com/content/ICCV2021/papers/Noguchi_Neural_Articulated_Radiance_Field_ICCV_2021_paper.pdf)|
 |2021|ACM TOG||Editable Free-Viewpoint Video using a Layered Neural Representation|
 
@@ -236,7 +236,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |:-:|:-:|:-:|:-:|:-:|
 |2022|ECCV|[Torch](https://github.com/r00tman/NeRF-OSR)|[NeRF for Outdoor Scene Relighting](https://arxiv.org/pdf/2112.05140.pdf)|[Project Page](https://4dqv.mpi-inf.mpg.de/NeRF-OSR/)|
 |2022|CVPR||[Urban Radiance Fields](https://openaccess.thecvf.com/content/CVPR2022/papers/Rematas_Urban_Radiance_Fields_CVPR_2022_paper.pdf)|
-|2022|CVPR|[Code](https://github.com/jetd1/NeRFusion)|[NeRFusion: Fusing Radiance Fields for Large-Scale Scene Reconstruction](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_NeRFusion_Fusing_Radiance_Fields_for_Large-Scale_Scene_Reconstruction_CVPR_2022_paper.pdf)|
+|2022|CVPR|[Torch](https://github.com/jetd1/NeRFusion)|[NeRFusion: Fusing Radiance Fields for Large-Scale Scene Reconstruction](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_NeRFusion_Fusing_Radiance_Fields_for_Large-Scale_Scene_Reconstruction_CVPR_2022_paper.pdf)|
 |2022|CVPR||[Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs](https://openaccess.thecvf.com/content/CVPR2022/papers/Turki_Mega-NERF_Scalable_Construction_of_Large-Scale_NeRFs_for_Virtual_Fly-Throughs_CVPR_2022_paper.pdf)|
 |2022|CVPR||[Block-NeRF: Scalable Large Scene Neural View Synthesis](https://openaccess.thecvf.com/content/CVPR2022/papers/Tancik_Block-NeRF_Scalable_Large_Scene_Neural_View_Synthesis_CVPR_2022_paper.pdf)|
 |2022|CVPR|[Torch](https://github.com/rover-xingyu/Ha-NeRF)|[Hallucinated Neural Radiance Fields in the Wild](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Hallucinated_Neural_Radiance_Fields_in_the_Wild_CVPR_2022_paper.pdf)|
@@ -293,8 +293,8 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 |Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
-|2022|NeurIPS|[Code](https://github.com/showlab/DeVRF)|[DeVRF: Fast Deformable Voxel Radiance Fields for Dynamic Scenes](https://arxiv.org/pdf/2205.15723.pdf)|[Project Page](https://jia-wei-liu.github.io/DeVRF/)|
-|2022|ECCV|[code](https://github.com/apple/ml-neuman)|[NeuMan: Neural Human Radiance Field from a Single Video](https://arxiv.org/abs/2203.12575)||
+|2022|NeurIPS|[Torch](https://github.com/showlab/DeVRF)|[DeVRF: Fast Deformable Voxel Radiance Fields for Dynamic Scenes](https://arxiv.org/pdf/2205.15723.pdf)|[Project Page](https://jia-wei-liu.github.io/DeVRF/)|
+|2022|ECCV|[Torch](https://github.com/apple/ml-neuman)|[NeuMan: Neural Human Radiance Field from a Single Video](https://arxiv.org/abs/2203.12575)||
 |2021|CVPR|[Torch](https://github.com/albertpumarola/D-NeRF)|[D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://openaccess.thecvf.com/content/CVPR2021/papers/Pumarola_D-NeRF_Neural_Radiance_Fields_for_Dynamic_Scenes_CVPR_2021_paper.pdf)|
 |2021|ICCV|[Torch](https://github.com/facebookresearch/nonrigid_nerf)|[Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Dynamic Scene From Monocular Video](https://openaccess.thecvf.com/content/ICCV2021/papers/Tretschk_Non-Rigid_Neural_Radiance_Fields_Reconstruction_and_Novel_View_Synthesis_of_ICCV_2021_paper.pdf)|
 |2021|CVPR||[Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction](https://openaccess.thecvf.com/content/CVPR2021/papers/Gafni_Dynamic_Neural_Radiance_Fields_for_Monocular_4D_Facial_Avatar_Reconstruction_CVPR_2021_paper.pdf)|[Project Page](https://gafniguy.github.io/4D-Facial-Avatars/)|
