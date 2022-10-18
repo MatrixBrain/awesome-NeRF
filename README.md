@@ -38,10 +38,10 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
         - [View Synthesis Extrapolation](#view-synthesis-extrapolation)
     - [Unclassified](#unclassified)
 - [Datasets](#datasets)
-- [Talks & Videos](#talks--videos)
-- [Blogs](#blogs)
+- [Talks](#talks)
 - [Acknowledgment](#acknowledgment)
 - [Team](#team)
+<!-- - [Blogs](#blogs) -->
 
 
 ## Papers
@@ -325,7 +325,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |2021|[NeuS-DATA](https://drive.google.com/drive/folders/1Nlzejs4mfPuJYORLbDEUDWlc9IZIbU0C)|[NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction](https://arxiv.org/pdf/2106.10689.pdf)|Surface Reconstruction|-||
 |2020|[NeRF-DATA](https://drive.google.com/drive/folders/128yBriW1IG_3NJ5Rp7APSTZsJqdJdfc1)|[NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://dl.acm.org/doi/pdf/10.1145/3503250)|View Synthesis|-|Benchmark|
 
-## Talks & Videos
+## Talks
 
 |Year|Theme|Speaker/Publisher|Language|
 |:-:|:-:|:-:|:-:|
@@ -344,14 +344,14 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |2020|[NeRD: Neural Reflectance Decomposition from Image Collections](https://www.youtube.com/watch?v=JL-qMTXw9VU)|Mark Boss|EN|
 |2020|[NeRF: Neural Radiance Fields](https://www.youtube.com/watch?v=JuH79E8rdKc)|Matthew Tancik|EN|
 
-## Blogs
+<!-- ## Blogs
 
 |Year|Title|Writer|Language|
 |:-:|:-:|:-:|:-:|
 |2022|[NeRF及其发展](https://zhuanlan.zhihu.com/p/512538748)|yuqiSun|CN|
 |2022|[NeRF at CVPR 2022](https://dellaert.github.io/NeRF22/)|Frank Dellaert|EN|
 |2021|[NeRF at ICCV 2021](https://dellaert.github.io/NeRF21/)|Frank Dellaert|EN|
-|2020|[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)|Frank Dellaert|EN|
+|2020|[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)|Frank Dellaert|EN| -->
 
 ## Acknowledgment
 When we reviewed the literatures about NeRF, we found that this excellent [repo](https://github.com/yenchenlin/awesome-NeRF) had not been updated for a long time, so we reorganized and released our [awesome-NeRF](https://github.com/koolo233/awesome-NeRF). Some features were borrowed from [repo](https://github.com/yenchenlin/awesome-NeRF), so we are grateful for their works.
