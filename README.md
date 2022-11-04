@@ -90,6 +90,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 |Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
+|2022|arXiv|[JAX](https://github.com/google-research/jax3d/tree/main/jax3d/projects/mobilenerf)|[MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Eﬀicient Neural Field Rendering on Mobile Architectures](https://arxiv.org/pdf/2208.00277.pdf)|[Project Page](https://mobile-nerf.github.io/)|
 |2022|NeurIPS|[Torch](https://github.com/ashawkey/CCNeRF)|[Compressible-composable NeRF via Rank-residual Decomposition](https://arxiv.org/pdf/2205.14870.pdf)||
 |2022|NeurIPS||Neural Transmitted Radiance Fields||
 |2022|ECCV|[Torch](https://github.com/apchenstu/TensoRF)|[TensoRF: Tensorial Radiance Fields](https://arxiv.org/pdf/2203.09517.pdf)|[Project Page](https://apchenstu.github.io/TensoRF/)|
