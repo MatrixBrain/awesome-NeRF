@@ -281,6 +281,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |:-:|:-:|:-:|:-:|:-:|
 |2022|ECCV|[Torch](https://github.com/Kai-46/ARF-svox2)|[ARF: Artistic Radiance fields](https://arxiv.org/pdf/2206.06360.pdf)|[Project Page](https://www.cs.cornell.edu/projects/arf/)|
 |2022|CVPR|[Jittor](https://github.com/IGLICT/StylizedNeRF)|[StylizedNeRF: Consistent 3D Scene Stylization as Stylized NeRF via 2D-3D Mutual Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_StylizedNeRF_Consistent_3D_Scene_Stylization_As_Stylized_NeRF_via_2D-3D_CVPR_2022_paper.pdf)|
+|2021|ICCV|[Torch](https://github.com/hhsinping/stylescene)|[Learning to Stylize Novel Views](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_Learning_To_Stylize_Novel_Views_ICCV_2021_paper.pdf)|[Project Page](https://hhsinping.github.io/3d_scene_stylization/)|
 
 #### Surface Reconstruction
 
