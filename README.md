@@ -120,6 +120,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 |Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
+|2022|ACM TOG|[Code](https://github.com/NVlabs/instant-ngp)|[Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://arxiv.org/pdf/2201.05989.pdf)|[Project Page](https://nvlabs.github.io/instant-ngp/)|
 |2022|ECCV|[Torch](https://github.com/snap-research/R2L)|[R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis](https://arxiv.org/pdf/2203.17261.pdf)|[Project Page](https://snap-research.github.io/R2L/)|
 |2022|ECCV||[Geometry-Guided Progressive NeRF for Generalizable and Efficient Neural Human Rendering](https://arxiv.org/pdf/2112.04312.pdf)||
 |2022|ECCV|[Torch](https://github.com/jkulhanek/viewformer/blob/master/requirements.txt)|[ViewFormer: NeRF-free Neural Rendering from Few Images Using Transformers](https://arxiv.org/pdf/2203.10157.pdf)||
