@@ -223,6 +223,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
 |2020|NeurIPS|[Torch](https://github.com/autonomousvision/graf)|[GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis](https://proceedings.neurips.cc/paper/2020/file/e92e1b476bb5262d793fd40931e0ed53-Paper.pdf)||
+|2022|CVPR|[Torch](https://github.com/NVlabs/eg3d)|[Efficient Geometry-aware 3D Generative Adversarial Networks](https://openaccess.thecvf.com/content/CVPR2022/papers/Chan_Efficient_Geometry-Aware_3D_Generative_Adversarial_Networks_CVPR_2022_paper.pdf)|[Project Page](https://nvlabs.github.io/eg3d/)|
 
 ##### Text & Image Guided Generation
 
