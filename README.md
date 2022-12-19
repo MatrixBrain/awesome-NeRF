@@ -222,8 +222,8 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 |Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
-|2020|NeurIPS|[Torch](https://github.com/autonomousvision/graf)|[GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis](https://proceedings.neurips.cc/paper/2020/file/e92e1b476bb5262d793fd40931e0ed53-Paper.pdf)||
 |2022|CVPR|[Torch](https://github.com/NVlabs/eg3d)|[Efficient Geometry-aware 3D Generative Adversarial Networks](https://openaccess.thecvf.com/content/CVPR2022/papers/Chan_Efficient_Geometry-Aware_3D_Generative_Adversarial_Networks_CVPR_2022_paper.pdf)|[Project Page](https://nvlabs.github.io/eg3d/)|
+|2020|NeurIPS|[Torch](https://github.com/autonomousvision/graf)|[GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis](https://proceedings.neurips.cc/paper/2020/file/e92e1b476bb5262d793fd40931e0ed53-Paper.pdf)||
 
 ##### Text & Image Guided Generation
 
@@ -298,6 +298,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |:-:|:-:|:-:|:-:|:-:|
 |2022|NeurIPS|[Torch](https://github.com/showlab/DeVRF)|[DeVRF: Fast Deformable Voxel Radiance Fields for Dynamic Scenes](https://arxiv.org/pdf/2205.15723.pdf)|[Project Page](https://jia-wei-liu.github.io/DeVRF/)|
 |2022|ECCV|[Torch](https://github.com/apple/ml-neuman)|[NeuMan: Neural Human Radiance Field from a Single Video](https://arxiv.org/abs/2203.12575)||
+|2021|ACM TOG|[TF](https://github.com/google/hypernerf)|[HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields](https://arxiv.org/pdf/2106.13228.pdf)|[Project Page](https://hypernerf.github.io/)|
 |2021|CVPR|[Torch](https://github.com/albertpumarola/D-NeRF)|[D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://openaccess.thecvf.com/content/CVPR2021/papers/Pumarola_D-NeRF_Neural_Radiance_Fields_for_Dynamic_Scenes_CVPR_2021_paper.pdf)|
 |2021|ICCV|[Torch](https://github.com/facebookresearch/nonrigid_nerf)|[Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Dynamic Scene From Monocular Video](https://openaccess.thecvf.com/content/ICCV2021/papers/Tretschk_Non-Rigid_Neural_Radiance_Fields_Reconstruction_and_Novel_View_Synthesis_of_ICCV_2021_paper.pdf)|
 |2021|CVPR||[Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction](https://openaccess.thecvf.com/content/CVPR2021/papers/Gafni_Dynamic_Neural_Radiance_Fields_for_Monocular_4D_Facial_Avatar_Reconstruction_CVPR_2021_paper.pdf)|[Project Page](https://gafniguy.github.io/4D-Facial-Avatars/)|
