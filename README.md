@@ -95,7 +95,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |2022|NeurIPS|[Torch](https://github.com/ashawkey/CCNeRF)|[Compressible-composable NeRF via Rank-residual Decomposition](https://arxiv.org/pdf/2205.14870.pdf)||
 |2022|NeurIPS||Neural Transmitted Radiance Fields||
 |2022|ECCV|[Torch](https://github.com/apchenstu/TensoRF)|[TensoRF: Tensorial Radiance Fields](https://arxiv.org/pdf/2203.09517.pdf)|[Project Page](https://apchenstu.github.io/TensoRF/)|
-|2022|ECCV|[Jax](https://github.com/Crishawy/NeXT)|NeXT: Towards High Quality Neural Radiance Fields via Multi-Skip Transformer||
+|2022|ECCV|[Jax](https://github.com/Crishawy/NeXT)|[NeXT: Towards High Quality Neural Radiance Fields via Multi-Skip Transformer](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136920069.pdf)||
 |2022|ECCV|[Torch](https://github.com/snap-research/R2L)|[R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis](https://arxiv.org/pdf/2203.17261.pdf)|[Project Page](https://snap-research.github.io/R2L/)|
 |2022|ECCV||[Gaussian Activated Neural Radiance Fields for High Fidelity Reconstruction & Pose Estimation](https://arxiv.org/pdf/2204.05735.pdf)||
 |2022|ECCV||[Conditional-Flow NeRF: Accurate 3D Modelling with Reliable Uncertainty Quantification](https://arxiv.org/pdf/2203.10192.pdf)||
