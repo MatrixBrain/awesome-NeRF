@@ -162,7 +162,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |:-:|:-:|:-:|:-:|:-:|
 |2022|NeurIPS|[Torch](https://github.com/showlab/DeVRF)|[DeVRF: Fast Deformable Voxel Radiance Fields for Dynamic Scenes](https://arxiv.org/pdf/2205.15723.pdf)|[Project Page](https://jia-wei-liu.github.io/DeVRF/)|
 |2022|NeurIPS||[Decomposing NeRF for Editing via Feature Field Distillation](https://arxiv.org/pdf/2205.15585.pdf)|[Project Page](https://pfnet-research.github.io/distilled-feature-fields/)|
-|2022|NeurIPS||CageNeRF: Cage-based Neural Radiance Field for Generalized 3D Deformation and Animation||
+|2022|NeurIPS||[CageNeRF: Cage-based Neural Radiance Field for Generalized 3D Deformation and Animation](https://openreview.net/pdf?id=kUnHCGiILeU)||
 |2022|ECCV|[Comming Soon](https://github.com/xth430/deforming-nerf)|[Deforming Radiance Fields with Cages](https://arxiv.org/pdf/2207.12298.pdf)|[Project Page](https://xth430.github.io/deforming-nerf/)|
 |2022|ECCV|[Torch](https://github.com/zhuhao-nju/mofanerf)|[MoFaNeRF: Morphable Facial Neural Radiance Field](https://arxiv.org/pdf/2112.02308.pdf)||
 |2022|ECCV|[Torch](https://github.com/ywq/psnerf)|[PS-NeRF: Neural Inverse Rendering for Multi-view Photometric Stereo](https://ywq.github.io/psnerf/)|[Project Page](https://ywq.github.io/psnerf/)|
