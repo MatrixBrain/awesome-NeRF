@@ -93,7 +93,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |:-:|:-:|:-:|:-:|:-:|
 |2022|arXiv|[JAX](https://github.com/google-research/jax3d/tree/main/jax3d/projects/mobilenerf)|[MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Eﬀicient Neural Field Rendering on Mobile Architectures](https://arxiv.org/pdf/2208.00277.pdf)|[Project Page](https://mobile-nerf.github.io/)|
 |2022|NeurIPS|[Torch](https://github.com/ashawkey/CCNeRF)|[Compressible-composable NeRF via Rank-residual Decomposition](https://arxiv.org/pdf/2205.14870.pdf)||
-|2022|NeurIPS||Neural Transmitted Radiance Fields||
+|2022|NeurIPS||[Neural Transmitted Radiance Fields](https://openreview.net/pdf?id=KglFYlTiASW)||
 |2022|ECCV|[Torch](https://github.com/apchenstu/TensoRF)|[TensoRF: Tensorial Radiance Fields](https://arxiv.org/pdf/2203.09517.pdf)|[Project Page](https://apchenstu.github.io/TensoRF/)|
 |2022|ECCV|[Jax](https://github.com/Crishawy/NeXT)|[NeXT: Towards High Quality Neural Radiance Fields via Multi-Skip Transformer](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136920069.pdf)||
 |2022|ECCV|[Torch](https://github.com/snap-research/R2L)|[R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis](https://arxiv.org/pdf/2203.17261.pdf)|[Project Page](https://snap-research.github.io/R2L/)|
