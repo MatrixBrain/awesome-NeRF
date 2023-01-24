@@ -65,7 +65,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 |Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
-|2022|ECCV||GeoAug: Data Augmentation for Few-Shot NeRF with Geometry Constrains|
+|2022|ECCV||[GeoAug: Data Augmentation for Few-Shot NeRF with Geometry Constrains](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136770326.pdf)|
 |2022|ECCV|[Torch](https://github.com/gyhandy/Neural-Sim-NeRF)|[Neural-Sim: Learning to Generate Training Data with NeRF](https://arxiv.org/pdf/2207.11368.pdf)||
 |2022|CVPR|[Torch](https://github.com/VITA-Group/Aug-NeRF)|[Aug-NeRF: Training Stronger Neural Radiance Fields with Triple-Level Physically-Grounded Augmentations](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Aug-NeRF_Training_Stronger_Neural_Radiance_Fields_With_Triple-Level_Physically-Grounded_Augmentations_CVPR_2022_paper.pdf)|
 
