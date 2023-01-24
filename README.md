@@ -75,7 +75,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |:-:|:-:|:-:|:-:|:-:|
 |2022|NeurIPS|[TF](https://github.com/d2nerf/d2nerf)|[D^2NeRF: Self-Supervised Decoupling of Dynamic and Static Objects from a Monocular Video](https://arxiv.org/pdf/2205.15838.pdf)|[Project Page](https://d2nerf.github.io/)|
 |2022|ECCV|[Comming Soon](https://github.com/LeapLabTHU/ActiveNeRF)|[ActiveNeRF: Learning where to See with Uncertainty Estimation](https://arxiv.org/pdf/2209.08546.pdf)||
-|2022|ECCV||GeoAug: Data Augmentation for Few-Shot NeRF with Geometry Constrains|
+|2022|ECCV||[GeoAug: Data Augmentation for Few-Shot NeRF with Geometry Constrains](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136770326.pdf)|
 |2022|ECCV|[Torch](https://github.com/VITA-Group/SinNeRF/blob/master/requirements.txt)|[SinNeRF: Training Neural Radiance Fields on Complex Scenes from a Single Image](https://arxiv.org/pdf/2204.00928.pdf)|[Project Page](https://vita-group.github.io/SinNeRF/)|
 |2022|CVPR||[Dense Depth Priors for Neural Radiance Fields from Sparse Input Views](https://openaccess.thecvf.com/content/CVPR2022/papers/Roessle_Dense_Depth_Priors_for_Neural_Radiance_Fields_From_Sparse_Input_CVPR_2022_paper.pdf)|
 |2022|CVPR|[TF](https://m-niemeyer.github.io/regnerf)|[RegNeRF: Regularizing Neural Radiance Fields for View Synthesis from Sparse Inputs](https://openaccess.thecvf.com/content/CVPR2022/papers/Niemeyer_RegNeRF_Regularizing_Neural_Radiance_Fields_for_View_Synthesis_From_Sparse_CVPR_2022_paper.pdf)|
