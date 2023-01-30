@@ -216,7 +216,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |2022|CVPR||[DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Reconstruction and Rendering](https://openaccess.thecvf.com/content/CVPR2022/papers/Shao_DoubleField_Bridging_the_Neural_Surface_and_Radiance_Fields_for_High-Fidelity_CVPR_2022_paper.pdf)|
 |2021|ICCV|[Torch](https://github.com/zju3dv/animatable_nerf)|[Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies](https://openaccess.thecvf.com/content/ICCV2021/papers/Peng_Animatable_Neural_Radiance_Fields_for_Modeling_Dynamic_Human_Bodies_ICCV_2021_paper.pdf)|[Project Page](https://zju3dv.github.io/animatable_nerf/)|
 |2021|ICCV|[Torch](https://github.com/nogu-atsu/NARF)|[Neural Articulated Radiance Field](https://openaccess.thecvf.com/content/ICCV2021/papers/Noguchi_Neural_Articulated_Radiance_Field_ICCV_2021_paper.pdf)|
-|2021|ACM TOG||Editable Free-Viewpoint Video using a Layered Neural Representation|
+|2021|ACM TOG||[Editable Free-Viewpoint Video using a Layered Neural Representation](https://arxiv.org/abs/2104.14786)|
 
 #### Image Generation
 
@@ -273,7 +273,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 |Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
-|2022|NeurIPS||Unsupervised Multi-View Object Segmentation Using Radiance Field Propagation||
+|2022|NeurIPS||[Unsupervised Multi-View Object Segmentation Using Radiance Field Propagation](https://arxiv.org/abs/2210.00489)||
 |2022|NeurIPS|[TF](https://github.com/d2nerf/d2nerf)|[D^2NeRF: Self-Supervised Decoupling of Dynamic and Static Objects from a Monocular Video](https://arxiv.org/pdf/2205.15838.pdf)|[Project Page](https://d2nerf.github.io/)|
 |2022|NeurIPS||[Decomposing NeRF for Editing via Feature Field Distillation](https://arxiv.org/pdf/2205.15585.pdf)|[Project Page](https://pfnet-research.github.io/distilled-feature-fields/)|
 |2022|ECCV||[LaTeRF: Label and Text Driven Object Radiance Fields](https://arxiv.org/pdf/2207.01583.pdf)||
@@ -318,7 +318,7 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 
 |Year|Conf/Jour|Code|Title|OtherInfo|
 |:-:|:-:|:-:|:-:|:-:|
-|2022|ECCV||BungeeNeRF: Progressive Neural Radiance Field for Extreme Multiscale Scene Rendering|
+|2022|ECCV||[BungeeNeRF: Progressive Neural Radiance Field for Extreme Multiscale Scene Rendering](https://arxiv.org/abs/2112.05504)|
 |2022|CVPR||[Neural Volumetric Object Selection](https://openaccess.thecvf.com/content/CVPR2022/papers/Ren_Neural_Volumetric_Object_Selection_CVPR_2022_paper.pdf)|[Project Page](https://jason718.github.io/nvos/)|
 |2021|ICCV|[Torch](https://github.com/wbjang/code-nerf)|[CodeNeRF: Disentangled Neural Radiance Fields for Object Categories](https://openaccess.thecvf.com/content/ICCV2021/papers/Jang_CodeNeRF_Disentangled_Neural_Radiance_Fields_for_Object_Categories_ICCV_2021_paper.pdf)|
 |2021|ICCV|[Torch](https://github.com/POSTECH-CVLab/SCNeRF)|[Self-Calibrating Neural Radiance Fields](https://openaccess.thecvf.com/content/ICCV2021/papers/Jeong_Self-Calibrating_Neural_Radiance_Fields_ICCV_2021_paper.pdf)| 
